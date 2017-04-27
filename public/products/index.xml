@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on SandMerit</title>
+    <link>/products/</link>
+    <description>Recent content in Products on SandMerit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Apr 2017 11:30:25 +0800</lastBuildDate>
+    
+	<atom:link href="/products/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Talent Management Solutions</title>
+      <link>/products/talent-management/</link>
+      <pubDate>Thu, 27 Apr 2017 11:30:25 +0800</pubDate>
+      
+      <guid>/products/talent-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employee Engagement &amp; Satisfaction Survey</title>
+      <link>/products/employee-feedback/</link>
+      <pubDate>Thu, 27 Apr 2017 11:30:15 +0800</pubDate>
+      
+      <guid>/products/employee-feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Year End Appraisal</title>
+      <link>/products/year-end-appraisal/</link>
+      <pubDate>Thu, 27 Apr 2017 11:29:51 +0800</pubDate>
+      
+      <guid>/products/year-end-appraisal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>360 Assessment</title>
+      <link>/products/360-assessment/</link>
+      <pubDate>Thu, 27 Apr 2017 11:29:43 +0800</pubDate>
+      
+      <guid>/products/360-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Merit Point System</title>
+      <link>/products/merit-point-system/</link>
+      <pubDate>Thu, 27 Apr 2017 11:20:25 +0800</pubDate>
+      
+      <guid>/products/merit-point-system/</guid>
+      <description> Why use a merit points system? </description>
+    </item>
+    
+  </channel>
+</rss>

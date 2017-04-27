@@ -1,0 +1,37 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "SandMerit"
+theme = "kube"
+description = "This site was built using Kube with the intent of learning how to customize Hugo themes"
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "SandFil" # add your company name
+  github = "" # add your github profile name
+  twitter = "" # add your twitter profile
+  email = "myemail@myaddress.xxx"
+
+[[menu.main]]
+    name = "Products"
+    weight = -100
+    url = "/products/"
+[[menu.main]]
+    name = "Services"
+    weight = -100
+    url = "/services/"
+[[menu.main]]
+    name = "Our Customers"
+    weight = -100
+    url = "/customers/"
+[[menu.main]]
+    name = "Events"
+    weight = -20
+    url = "/events/"
+[[menu.main]]
+    name = "Partnership"
+    weight = -10
+    url = "/partner/"
+[[menu.main]]
+    name = "About Us"
+    weight = -100
+    url = "/about/"

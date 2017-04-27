@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SandMerit</title>
+    <link>/</link>
+    <description>Recent content on SandMerit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Apr 2017 11:30:25 +0800</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Talent Management Solutions</title>
+      <link>/products/talent-management/</link>
+      <pubDate>Thu, 27 Apr 2017 11:30:25 +0800</pubDate>
+      
+      <guid>/products/talent-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employee Engagement &amp; Satisfaction Survey</title>
+      <link>/products/employee-feedback/</link>
+      <pubDate>Thu, 27 Apr 2017 11:30:15 +0800</pubDate>
+      
+      <guid>/products/employee-feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Year End Appraisal</title>
+      <link>/products/year-end-appraisal/</link>
+      <pubDate>Thu, 27 Apr 2017 11:29:51 +0800</pubDate>
+      
+      <guid>/products/year-end-appraisal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>360 Assessment</title>
+      <link>/products/360-assessment/</link>
+      <pubDate>Thu, 27 Apr 2017 11:29:43 +0800</pubDate>
+      
+      <guid>/products/360-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Merit Point System</title>
+      <link>/products/merit-point-system/</link>
+      <pubDate>Thu, 27 Apr 2017 11:20:25 +0800</pubDate>
+      
+      <guid>/products/merit-point-system/</guid>
+      <description> Why use a merit points system? </description>
+    </item>
+    
+    <item>
+      <title>Animation</title>
+      <link>/features/animation/</link>
+      <pubDate>Mon, 10 Apr 2017 16:43:08 +0100</pubDate>
+      
+      <guid>/features/animation/</guid>
+      <description>Slide slideUp   slideDown   Slide Up Slide Down $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;slideUp&amp;rsquo;); $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;slideDown&amp;rsquo;);  Fade fadeIn   fadeOut   Fade In Fade Out $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;fadeIn&amp;rsquo;); $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;fadeOut&amp;rsquo;);  Flip flipIn   flipOut   Flip In Flip Out $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;flipIn&amp;rsquo;); $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;flipOut&amp;rsquo;);  Zoom zoomIn   zoomOut   Zoom In Zoom Out $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;zoomIn&amp;rsquo;); $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;zoomOut&amp;rsquo;);  Rotate rotate   Rotate $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;rotate&amp;rsquo;);  Shake shake   Shake $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;shake&amp;rsquo;);  Pulse pulse   Pulse $(&amp;rsquo;#element&amp;rsquo;).</description>
+    </item>
+    
+    <item>
+      <title>About SandFil</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Be our Partner</title>
+      <link>/partner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partner/</guid>
+      <description> Contact Us Salutation Mx Miss Mrs Mr   Name  E-mail  Company  Company Website  Talk to us  </description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>We would like to hear from you. Email   Name   Contact Us
+ </description>
+    </item>
+    
+    <item>
+      <title>How to Reward Employees</title>
+      <link>/events/forum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/events/forum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uni Kl</title>
+      <link>/customers/unikl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/customers/unikl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
