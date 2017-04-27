@@ -32,6 +32,16 @@
   </url>
   
   <url>
+    <loc>/services/performance-management/</loc>
+    <lastmod>2017-04-27T12:46:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/services/public-training/</loc>
+    <lastmod>2017-04-27T12:46:22+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
   </url>
   
@@ -77,6 +87,12 @@
   <url>
     <loc>/</loc>
     <lastmod>2017-04-27T11:30:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/services/</loc>
+    <lastmod>2017-04-27T12:46:37+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
