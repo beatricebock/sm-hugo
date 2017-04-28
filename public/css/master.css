@@ -140,8 +140,11 @@ fieldset label {
     #top #top-nav-extra a:hover {
       -moz-transition: all linear 0.2s;
       transition: all linear 0.2s;
-      color: #000;
-      text-decoration: underline; }
+      color: #fff;
+      background-color: #ED734B;
+      border: 1px solid #ED734B;
+      border-radius: 28px;
+      text-decoration: none; }
     #top #top-nav-extra span {
       color: rgba(0, 0, 0, 0.4);
       border-color: rgba(0, 0, 0, 0.2); }
@@ -254,7 +257,7 @@ fieldset label {
       top: 0;
       left: 50%;
       margin-left: -20px;
-      background: #ff3366; }
+      background: #ED734B; }
 
 #intro {
   margin-top: 56px;
@@ -269,7 +272,7 @@ fieldset label {
     top: -68px;
     left: 50%;
     margin-left: -20px;
-    background: #ff3366; }
+    background: #ED734B; }
   #intro h6 {
     color: rgba(0, 0, 0, 0.5);
     font-weight: normal; }
