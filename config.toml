@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "SandMerit"
-theme = "kube"
+
 description = "This site was built using Kube with the intent of learning how to customize Hugo themes"
 Paginate = 4
 [Params]
