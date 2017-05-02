@@ -1,4 +1,37 @@
-fieldset label
-{
-  text-align: left;
+a {
+  color: #1EA896;
+  transition: all linear 0.3s;
+}
+a:hover {
+  color: #000;
+  transition: all linear 0.3s;
+}
+
+button {
+  background-color: #1EA896;
+  transition: all linear 0.4s;
+}
+
+.append .button, button{
+  background-color: #1EA896;
+  transition: all linear 0.3s;
+}
+
+.button.primary.big {
+  background-color: #1EA896;
+  transition: all linear 0.3s;
+}
+.button.primary.big:hover {
+  background: #FF715B;
+  transition: all linear 0.3s;
+}
+.button.outline.big{
+  border-color: #1EA896;
+  color: #1EA896;
+  transition: all linear 0.3s;
+}
+.button.outline.big:hover{
+  border-color: #FF715B;
+  color: #FF715B;
+  transition: all linear 0.3s;
 }

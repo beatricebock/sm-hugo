@@ -12,9 +12,9 @@ Paginate = 4
   email = "myemail@myaddress.xxx"
 
 [[menu.main]]
-    name = "Products"
+    name = "Features"
     weight = -100
-    url = "/products/"
+    url = "/features/"
 [[menu.main]]
     name = "Services"
     weight = -100

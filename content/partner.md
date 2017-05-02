@@ -16,20 +16,20 @@ description= "Be a part of SandFil International"
   </div>
   <div class="form-item">
     <label>Name</label>
-    <input type="text" name="name" placeholder="Name"/>
+    <input type="text" name="name" placeholder="Name" required/>
   </div>
   <div class="form-item">
     <label>E-mail<span class="req"></span></label>
-    <input type="email" name="email" placeholder="example@company.com"/>
+    <input type="email" name="email" placeholder="example@company.com" required/>
   </div>
 
   <div class="form-item">
     <label>Company</label>
-    <input type="text" name="company" placeholder="Company Co."/>
+    <input type="text" name="company" placeholder="Company Co." required/>
   </div>
   <div class="form-item">
     <label>Company Website</label>
-    <input type="text" name="site" placeholder="example.com" />
+    <input type="url" name="site" placeholder="example.com" />
   </div>
   <button>Talk to us</button>
 </fieldset>

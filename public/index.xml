@@ -13,56 +13,47 @@
     
     <item>
       <title>Talent Management Solutions</title>
-      <link>/products/talent-management/</link>
+      <link>/features/talent-management/</link>
       <pubDate>Thu, 27 Apr 2017 11:30:25 +0800</pubDate>
       
-      <guid>/products/talent-management/</guid>
+      <guid>/features/talent-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Employee Engagement &amp; Satisfaction Survey</title>
-      <link>/products/employee-feedback/</link>
+      <link>/features/employee-feedback/</link>
       <pubDate>Thu, 27 Apr 2017 11:30:15 +0800</pubDate>
       
-      <guid>/products/employee-feedback/</guid>
+      <guid>/features/employee-feedback/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Year End Appraisal</title>
-      <link>/products/year-end-appraisal/</link>
+      <link>/features/year-end-appraisal/</link>
       <pubDate>Thu, 27 Apr 2017 11:29:51 +0800</pubDate>
       
-      <guid>/products/year-end-appraisal/</guid>
+      <guid>/features/year-end-appraisal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>360 Assessment</title>
-      <link>/products/360-assessment/</link>
+      <link>/features/360-assessment/</link>
       <pubDate>Thu, 27 Apr 2017 11:29:43 +0800</pubDate>
       
-      <guid>/products/360-assessment/</guid>
+      <guid>/features/360-assessment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Merit Point System</title>
-      <link>/products/merit-point-system/</link>
+      <link>/features/merit-point-system/</link>
       <pubDate>Thu, 27 Apr 2017 11:20:25 +0800</pubDate>
       
-      <guid>/products/merit-point-system/</guid>
+      <guid>/features/merit-point-system/</guid>
       <description> Why use a merit points system? </description>
-    </item>
-    
-    <item>
-      <title>Animation</title>
-      <link>/features/animation/</link>
-      <pubDate>Mon, 10 Apr 2017 16:43:08 +0100</pubDate>
-      
-      <guid>/features/animation/</guid>
-      <description>Slide slideUp   slideDown   Slide Up Slide Down $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;slideUp&amp;rsquo;); $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;slideDown&amp;rsquo;);  Fade fadeIn   fadeOut   Fade In Fade Out $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;fadeIn&amp;rsquo;); $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;fadeOut&amp;rsquo;);  Flip flipIn   flipOut   Flip In Flip Out $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;flipIn&amp;rsquo;); $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;flipOut&amp;rsquo;);  Zoom zoomIn   zoomOut   Zoom In Zoom Out $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;zoomIn&amp;rsquo;); $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;zoomOut&amp;rsquo;);  Rotate rotate   Rotate $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;rotate&amp;rsquo;);  Shake shake   Shake $(&amp;rsquo;#element&amp;rsquo;).animation(&amp;lsquo;shake&amp;rsquo;);  Pulse pulse   Pulse $(&amp;rsquo;#element&amp;rsquo;).</description>
     </item>
     
     <item>

@@ -2,33 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/products/talent-management/</loc>
+    <loc>/features/talent-management/</loc>
     <lastmod>2017-04-27T11:30:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/products/employee-feedback/</loc>
+    <loc>/features/employee-feedback/</loc>
     <lastmod>2017-04-27T11:30:15+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/products/year-end-appraisal/</loc>
+    <loc>/features/year-end-appraisal/</loc>
     <lastmod>2017-04-27T11:29:51+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/products/360-assessment/</loc>
+    <loc>/features/360-assessment/</loc>
     <lastmod>2017-04-27T11:29:43+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/products/merit-point-system/</loc>
+    <loc>/features/merit-point-system/</loc>
     <lastmod>2017-04-27T11:20:25+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/features/animation/</loc>
-    <lastmod>2017-04-10T16:43:08+01:00</lastmod>
   </url>
   
   <url>
@@ -70,18 +65,12 @@
   
   <url>
     <loc>/features/</loc>
-    <lastmod>2017-04-10T16:43:08+01:00</lastmod>
+    <lastmod>2017-04-27T11:30:25+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/events/forum/</loc>
-  </url>
-  
-  <url>
-    <loc>/products/</loc>
-    <lastmod>2017-04-27T11:30:25+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

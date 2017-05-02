@@ -1,5 +1,6 @@
 body {
-  font-family: Lato, Arial, sans-serif; }
+  font-family: Lato, Arial, sans-serif;
+}
 
 h1.title, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: Lato, Arial, sans-serif; }
@@ -73,14 +74,13 @@ fieldset label {
 
 #nav-toggle-brand a,
 #nav-toggle-brand span {
-  color: #000;
+  transition: ease-in 0.4s;
   font-weight: bold;
   text-decoration: none; }
 
 #top {
   display: flex;
   align-items: center;
-  margin-bottom: 24px;
   padding: 0 36px;
   height: 88px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05); }
@@ -94,7 +94,9 @@ fieldset label {
       line-height: 11px;
       background-repeat: no-repeat;
       text-decoration: none;}
-
+      #top-brand a:hover{
+        transition: ease-in 0.4s;
+      }
   #top ul {
     display: flex;
     align-items: center;
@@ -136,7 +138,8 @@ fieldset label {
       text-decoration: none;
       line-height: 28px;
       border-radius: 28px;
-      padding: 0 20px; }
+      padding: 0 20px;
+      transition: ease-in 0.2s; }
     #top #top-nav-extra a:hover {
       -moz-transition: all linear 0.2s;
       transition: all linear 0.2s;
@@ -222,12 +225,12 @@ fieldset label {
         transition: all linear 0.2s;
         color: #000;
         text-decoration: underline; }
-
-#hero {
+.hero {
   padding-top: 48px;
   padding-bottom: 56px;
   text-align: center; }
-  #hero h1 {
+  .hero h1 {
+    color: #222222;
     max-width: 880px;
     margin-left: auto;
     margin-right: auto;
@@ -235,7 +238,7 @@ fieldset label {
     font-size: 64px;
     line-height: 72px;
     font-weight: 900; }
-  #hero p {
+  .hero p {
     max-width: 740px;
     margin: auto;
     font-size: 21px;
@@ -245,11 +248,11 @@ fieldset label {
     padding-top: 28px;
     margin-bottom: 0;
     position: relative; }
-    #hero p a {
+    .hero p a {
       color: #000; }
-    #hero p a:hover {
+    .hero p a:hover {
       color: rgba(0, 0, 0, 0.6); }
-    #hero p:before {
+    .hero p:before {
       position: absolute;
       content: '';
       width: 40px;
@@ -258,6 +261,12 @@ fieldset label {
       left: 50%;
       margin-left: -20px;
       background: #ED734B; }
+
+  #hero.hero h1 {
+    color: #FAF15F;}
+  #hero span {
+    color: #E95524;
+  }
 
 #intro {
   margin-top: 56px;
@@ -300,12 +309,7 @@ fieldset label {
   #action-buttons button,
   #action-buttons .button {
     margin: 0 4px; }
-  #action-buttons p {
-    margin: 0;
-    margin-top: 20px;
-    font-size: 13px;
-    line-height: 20px;
-    color: rgba(0, 0, 0, 0.5); }
+
 
 #contents {
   counter-reset: count;
@@ -360,9 +364,9 @@ body.page-redactor-index #footer {
 body.docs #top {
   margin-bottom: 0; }
 
-body.page-account #hero {
+body.page-account .hero {
   padding: 0; }
-  body.page-account #hero h1 {
+  body.page-account .hero h1 {
     font-size: 32px;
     line-height: 32px;
     margin-bottom: 48px; }
@@ -836,7 +840,7 @@ body.page-account #hero {
     margin-right: 4px; }
 
 #kube-features {
-  margin-top: 104px;
+  margin: 104px 0 104px 0;
   text-align: center; }
   #kube-features h3 {
     margin-top: 0; }
@@ -867,66 +871,73 @@ body.page-account #hero {
     margin-top: 80px;
     margin-bottom: 40px; }
 
-#components {
+.components {
   text-align: center; }
-  #components.lists {
-    text-align: left; }
-    #components.lists .item {
+  .components.lists {
+    text-align: center; }
+    .components.lists .item {
       padding: 24px; }
-      #components.lists .item:hover {
+      .components.lists .item:hover {
         background: #f8f8f8; }
-  #components .start {
+  .components .start {
     font-size: 24px;
     line-height: 32px; }
-  #components #search-box {
+  .components #search-box {
     padding: 24px;
     background: #ebf0f6;
     margin-bottom: 24px; }
-  #components .item {
-    background: #f8f8f8;
+  .components .item {
+    background: #fcfcfc;
     padding: 68px 24px 60px 24px;
-    margin-bottom: 20px; }
-    #components .item:hover {
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 5px #cec8c8;
+    transition: all linear 0.2s; }
+    .components .item:hover {
       -moz-transition: all linear 0.2s;
       transition: all linear 0.2s;
-      background: #fcfcfc; }
-  #components figure {
+      background: #f8f8f8;
+      box-shadow: 3px 3px 5px #cec8c8;}
+  .components figure {
     margin-bottom: 0; }
-  #components h4 {
+  .components h4 {
     font-size: 19px;
     margin-top: 0;
-    margin-bottom: 8px; }
-    #components h4 a {
+    margin-bottom: 8px;
+    }
+    .components h4 a {
       color: #3794de;
       text-decoration: none; }
-    #components h4 a:hover {
+    .components h4 a:hover {
       -moz-transition: all linear 0.2s;
       transition: all linear 0.2s;
       color: #000;
       text-decoration: underline; }
-  #components ul {
+  .components img {
+
+  }
+  .components ul {
     margin-left: 0;
     margin-top: 24px;
     list-style: none; }
-  #components li {
+  .components li {
     line-height: 32px;
     margin-bottom: 4px; }
-    #components li a {
+    .components li a {
       display: inline-block;
       color: #3794de;
       line-height: 24px; }
-      #components li a:hover {
+      .components li a:hover {
         -moz-transition: all linear 0.2s;
         transition: all linear 0.2s;
         color: #000;
         text-decoration: underline; }
-  #components p {
-    max-width: 220px;
+  .components p {
     margin: auto;
+    max-width: 220px;
     font-size: 13px;
     line-height: 20px;
     color: rgba(0, 0, 0, 0.5); }
-  #components #docs-search-results p {
+  .components #docs-search-results p {
     max-width: none;
     margin-bottom: 16px; }
 
@@ -1038,7 +1049,6 @@ tr.border-none td {
 #footer {
   display: flex;
   border-top: 1px solid #eee;
-  margin: 104px 0;
   padding: 0 28px;
   padding-top: 24px;
   font-size: 13px;
@@ -1087,15 +1097,15 @@ tr.border-none td {
     border: none;
     display: block;
     margin: 16px 0; }
-  #hero {
+  .hero {
     margin-top: 32px;
     padding-top: 0;
     padding-left: 20px;
     padding-right: 20px; }
-    #hero h1 {
+    .hero h1 {
       font-size: 40px;
       line-height: 48px; }
-    #hero p {
+    .hero p {
       font-size: 16px;
       line-height: 24px; }
   #posts,
