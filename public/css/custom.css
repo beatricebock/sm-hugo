@@ -35,3 +35,7 @@ button {
   color: #FF715B;
   transition: all linear 0.3s;
 }
+
+.highlight {
+  color: #FF715B;
+}
