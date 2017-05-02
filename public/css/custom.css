@@ -6,7 +6,14 @@ a:hover {
   color: #000;
   transition: all linear 0.3s;
 }
-
+#top-brand a{
+  color: #000;
+  transition: all linear 0.3s;
+}
+#top-brand a:hover{
+  color: #1EA896;
+  transition: all linear 0.3s;
+}
 button {
   background-color: #1EA896;
   transition: all linear 0.4s;
@@ -36,6 +43,7 @@ button {
   transition: all linear 0.3s;
 }
 
-.highlight {
-  color: #FF715B;
+#kube-features .highlight {
+  color: #1EA896;
+  background-color: #fff;
 }
