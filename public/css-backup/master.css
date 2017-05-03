@@ -837,19 +837,19 @@ body.page-account #hero {
   #changelog li .label {
     margin-right: 4px; }
 
-#kube-features {
+#features {
   margin: 104px 0 104px 0;
   text-align: center; }
-  #kube-features h3 {
+  #features h3 {
     margin-top: 0; }
-  #kube-features .row:first-child {
+  #features .row:first-child {
     padding-bottom: 32px;
     margin-bottom: 64px;
     border-bottom: 1px dashed rgba(0, 0, 0, 0.15); }
-  #kube-features p {
+  #features p {
     font-size: 15px;
     color: rgba(0, 0, 0, 0.75); }
-  #kube-features .item {
+  #features .item {
     padding: 0 24px; }
 
 #kube-faq {

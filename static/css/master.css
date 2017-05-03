@@ -73,10 +73,11 @@ fieldset label {
   top: -1px; }
 
 #nav-toggle-brand a,
-#nav-toggle-brand span {
-  transition: ease-in 0.4s;
-  font-weight: bold;
-  text-decoration: none; }
+#nav-toggle-brand img {
+  width: 25%;
+  max-width: 25%;
+  height: auto;
+}
 
 #top {
   display: flex;
@@ -87,16 +88,9 @@ fieldset label {
   #top #top-brand {
     margin-right: 52px; }
     #top #top-brand span,
-    #top #top-brand a {
+    #top #top-brand a, #top #top-brand img {
       background: none;
-      text-indent: -9999px;
-      width: 70px;
-      line-height: 11px;
-      background-repeat: no-repeat;
-      text-decoration: none;}
-      #top-brand a:hover{
-        transition: ease-in 0.4s;
-      }
+      max-width: 90px;}
   #top ul {
     display: flex;
     align-items: center;
@@ -151,6 +145,7 @@ fieldset label {
     #top #top-nav-extra span {
       color: rgba(0, 0, 0, 0.4);
       border-color: rgba(0, 0, 0, 0.2); }
+
 
 #subnav {
   margin-top: 24px;
@@ -839,19 +834,19 @@ body.page-account .hero {
   #changelog li .label {
     margin-right: 4px; }
 
-#kube-features {
+#features {
   margin: 104px 0 104px 0;
   text-align: center; }
-  #kube-features h3 {
+  #features h3 {
     margin-top: 0; }
-  #kube-features .row:first-child {
+  #features .row:first-child {
     padding-bottom: 32px;
     margin-bottom: 64px;
     border-bottom: 1px dashed rgba(0, 0, 0, 0.15); }
-  #kube-features p {
+  #features p {
     font-size: 15px;
     color: rgba(0, 0, 0, 0.75); }
-  #kube-features .item {
+  #features .item {
     padding: 0 24px; }
 
 #kube-faq {
