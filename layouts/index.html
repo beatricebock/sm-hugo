@@ -1,18 +1,48 @@
 {{ define "title"}} {{ .Site.Title}} {{end}} {{ define "header"}} {{ partial "header" .}} {{end}} {{ define "main"}}
 
 <div id="main">
-  <div class="hero" id="hero">
-    <h1><span>Fortune 500s</span> use this one thing that most Malaysian SME's don't.</h1>
-    <p>{{.Description}}</p>
+  <div class="hero hook">
+    <h1><span>Fortune 500s</span> go through the same pains as Malaysian SME's.</h1>
+    <p>
+      Can you relate?
+    </p>
+    <br  />
+    <div class="row gutters">
+      <div class="col col-4 item">
+        <h3><i class="fa fa-thermometer-2"></i> <span>Pain</span> point 1</h3>
+      </div>
+      <div class="col col-4 item">
+        <h3><i class="fa fa-thermometer-3"></i> Pain point <span>2</span></h3>
+      </div>
+      <div class="col col-4 item">
+        <h3><i class="fa fa-thermometer-full"></i> Pain <span>point</span> 3</h3>
+      </div>
+    </div>
   </div>
-  <div id="action-buttons">
-    <a class="button primary big" href="/contact" onclick="_gaq.push(['_trackEvent', 'kube', 'download', '1.0']);">Contact Us</a> <a class="button outline big" href="/features" onclick="_gaq.push(['_trackEvent', 'kube', 'github', '1.0.0']);">Learn More</a>
-  </div>
+
   <div id="scroll-more">
-      <a href="#features" alt="scroll down to features"><span class="caret down"></span></a>
+      <a href="#hook" alt="scroll down to features"><span class="caret down"></span></a>
   </div>
-
-
+  <div id="cta">
+    <div class="hero hook" id="hook">
+      <h4><span id="sand">Sand</span><span>Merit</span> is a Performance Reward System</h4>
+      <p>
+        Learn more about SandMerit and receive an exclusive invitation to our forums.
+      </p>
+    </div>
+    <div class="form-item">
+        <div class="append">
+            <input type="text" name="NAME" placeholder="Your Name" />
+            <input type="email" name="EMAIL" placeholder="your@email.com">
+            <button class="button">Talk to Us</button>
+        </div>
+    </div>
+    <!--
+    <div id="action-buttons">
+      <a class="button primary big" href="/contact" onclick="_gaq.push(['_trackEvent', 'kube', 'download', '1.0']);">Contact Us</a> <a class="button outline big" href="/features" onclick="_gaq.push(['_trackEvent', 'kube', 'github', '1.0.0']);">Learn More</a>
+    </div>
+  -->
+  </div>
   <div id="features">
     <div class="row gutters">
       <div class="col col-4 item">
@@ -21,6 +51,8 @@
         </figure>
         <h3><span class="highlight">Increase</span> Performance</h3>
         <p>The most effective performance reviews are the ones done frequently. SandMerit simplifies that for you.</p>
+        <br />
+        <a class="button outline big" href="/features">Learn More</a>
       </div>
       <div class="col col-4 item">
         <figure>
@@ -28,15 +60,19 @@
         </figure>
         <h3><span class="highlight">Save</span> Time</h3>
         <p>We know you're busy. As important as it is to monitor performances, it doesn't have to take so much time.</p>
+        <br/>
+        <a class="button outline big" href="/features">Learn More</a>
       </div>
       <div class="col col-4 item">
         <figure>
           <img alt="Reward" height="48" src="/img/kube/003-gift.png" width="48">
         </figure>
         <h3><span class="highlight">Motivate</span> Employees</h3>
-        <p>Ever wondered what's the best way to incentivise employees to perform better? We have a solution.</p>
+        <p>Everyone loves to be rewarded for a job well done. SandMerit offers a variety of enticing products from our suppliers. There's something for everybody.</p>
+        <a class="button outline big" href="/features">Learn More</a>
       </div>
     </div>
+
     <div class="row gutters">
       <div class="col col-4 item">
         <h4>Easy</h4>

@@ -257,18 +257,25 @@ fieldset label {
       left: 50%;
       margin-left: -20px;
       background: #ED734B; }
+    .hero i {
+      color: #E95524;
+    }
 
-  #hero.hero h1 {
+  .hero.hook h1 {
     color: #F3B136;}
-  #hero span {
+  .hero.hook span {
     color: #E95524;
+  }
+  .hero #sand {
+    color: #F7C255;
   }
 
   #scroll-more {
-    text-align: center;}
+    text-align: center;
+    margin-bottom: 3em;}
     #scroll-more span {
       vertical-align: top;
-      font-size: 2em;
+      font-size: 3em;
       transition: all linear 0.2s;
     }
     #scroll-more a {
@@ -823,6 +830,7 @@ body.page-account .hero {
   line-height: 32px;
   margin-bottom: 40px; }
 
+/**
 #changelog {
   max-width: 820px;
   margin: auto;
@@ -851,16 +859,29 @@ body.page-account .hero {
     border-bottom: none; }
   #changelog li .label {
     margin-right: 4px; }
+**/
+#cta {
+  border-top: 1px dashed #afafaf;
+  border-bottom: 1px dashed #afafaf;
+  padding: 2em 0 2em 0;
+}
+  #cta p {
+    font-size: 1em;
+  }
+  #cta .form-item{
+    width: 50%;
+    margin: 0 auto 1em auto;
+  }
 
 #features {
-  margin: 104px 0 104px 0;
+  margin: 50px 0 104px 0;
   text-align: center; }
   #features h3 {
     margin-top: 0; }
   #features .row:first-child {
     padding-bottom: 32px;
     margin-bottom: 64px;
-    border-bottom: 1px dashed rgba(0, 0, 0, 0.15); }
+    border-bottom: 1px dashed #afafaf;}
   #features p {
     font-size: 15px;
     color: rgba(0, 0, 0, 0.75); }
