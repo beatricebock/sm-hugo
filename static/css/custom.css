@@ -38,13 +38,6 @@ button, .button {
     transition: all linear 0.3s;}
 
 
-
-/** overwrites .highlight class in kube.css **/
-.highlight {
-  color: #F3B136;
-  background-color: #fff;
-}
-
 #top-brand a{
   color: #000;
   transition: all linear 0.3s;}
