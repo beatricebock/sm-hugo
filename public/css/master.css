@@ -222,8 +222,8 @@ fieldset label {
         color: #000;
         text-decoration: underline; }
 .hero {
-  padding-top: 48px;
-  padding-bottom: 56px;
+  padding-top: 2em;
+  padding-bottom: 2em;
   text-align: center; }
   .hero h1 {
     color: #222222;
@@ -259,10 +259,27 @@ fieldset label {
       background: #ED734B; }
 
   #hero.hero h1 {
-    color: #F9F14A;}
+    color: #F3B136;}
   #hero span {
     color: #E95524;
   }
+
+  #scroll-more {
+    text-align: center;}
+    #scroll-more span {
+      vertical-align: top;
+      font-size: 2em;
+      transition: all linear 0.2s
+    }
+    #scroll-more a {
+      color: #E95524;
+      font-size: 2em;}
+    #scroll-more a:hover, #scroll-more span:hover {
+      color: #F3B138;
+      transform: scale(1.4);
+      transition: all linear 0.2s
+    }
+
 
 #intro {
   margin-top: 56px;
@@ -300,7 +317,7 @@ fieldset label {
       margin-bottom: 48px; } }
 
 #action-buttons {
-  margin-bottom: 64px;
+  margin-bottom: 2em;
   text-align: center; }
   #action-buttons button,
   #action-buttons .button {
