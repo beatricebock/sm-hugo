@@ -84,12 +84,30 @@
     </item>
     
     <item>
-      <title>Be our Partner</title>
-      <link>/partner/</link>
+      <title>Become Our HR Consultant</title>
+      <link>/partner/consultant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/partner/</guid>
-      <description> Contact Us Salutation Mx Miss Mrs Mr   Name  E-mail  Company  Company Website  Talk to us  </description>
+      <guid>/partner/consultant/</guid>
+      <description> Enter your contact details below Salutation Mx Miss Mrs Mr   Name  E-mail  Company  Company Website  Talk to us  </description>
+    </item>
+    
+    <item>
+      <title>Become Our Reseller</title>
+      <link>/partner/reseller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partner/reseller/</guid>
+      <description> Enter your contact details below Salutation Mx Miss Mrs Mr   Name  E-mail  Company  Company Website  Talk to us  </description>
+    </item>
+    
+    <item>
+      <title>Become Our Supplier</title>
+      <link>/partner/supplier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partner/supplier/</guid>
+      <description> Enter your contact details below Salutation Mx Miss Mrs Mr   Name  E-mail  Company  Company Website  Talk to us  </description>
     </item>
     
     <item>
@@ -98,7 +116,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>We would like to hear from you. Email   Name   Contact Us
+      <description>Want to know more?  We are having a workshop on the 4th of May, come join us!  Join our FREE forum to learn how to bring the best out of your company.  Enter your e-mail below and we&amp;rsquo;ll contact you with more details.
+
+Email   Name   Contact Us
  </description>
     </item>
     

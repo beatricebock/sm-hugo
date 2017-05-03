@@ -2,53 +2,52 @@
 
 a {
   color: #F3B136;
-  transition: all linear 0.3s;
-}
-a:hover {
-  color: #000;
-  transition: all linear 0.3s;
-}
+  transition: all linear 0.3s;}
+  a:hover {
+    color: #000;
+    transition: all linear 0.3s;}
 
-button {
+button, .button {
   background-color: #F3B136;
-  transition: all linear 0.4s;
-}
+  transition: all linear 0.4s;}
+  .button:hover, button:hover {
+    background-color: #F9603A;
+    transition: all linear 0.3s;}
 
 .append .button, button{
   background-color: #F3B136;
-  transition: all linear 0.3s;
-}
+  transition: all linear 0.3s;}
+  .append .button:hover{
+    border-color: #F9603A;
+    background-color: #F9603A;
+    transition: all linear 0.3s;}
 
 .button.primary.big {
   background-color: #F3B136;
-  transition: all linear 0.3s;
-}
-.button.primary.big:hover {
-  background: #F9603A;
-  transition: all linear 0.3s;
-}
+  transition: all linear 0.3s;}
+  .button.primary.big:hover {
+    background: #F9603A;
+    transition: all linear 0.3s;}
 .button.outline.big{
   border-color: #F3B136;
   color: #F3B136;
-  transition: all linear 0.3s;
-}
-.button.outline.big:hover{
-  border-color: #F9603A;
-  color: #F9603A;
-  transition: all linear 0.3s;
-}
+  transition: all linear 0.3s;}
+  .button.outline.big:hover{
+    border-color: #F9603A;
+    color: #F9603A;
+    transition: all linear 0.3s;}
+
+
 
 /** overwrites .highlight class in kube.css **/
-#features .highlight {
+.highlight {
   color: #F3B136;
   background-color: #fff;
 }
 
 #top-brand a{
   color: #000;
-  transition: all linear 0.3s;
-}
-#top-brand a:hover{
-  color: #F3B136;
-  transition: all linear 0.3s;
-}
+  transition: all linear 0.3s;}
+  #top-brand a:hover{
+    color: #F3B136;
+    transition: all linear 0.3s;}

@@ -269,7 +269,7 @@ fieldset label {
     #scroll-more span {
       vertical-align: top;
       font-size: 2em;
-      transition: all linear 0.2s
+      transition: all linear 0.2s;
     }
     #scroll-more a {
       color: #E95524;
@@ -1162,4 +1162,11 @@ tr.border-none td {
     margin-bottom: 20px; }
   #price-box .item-selected {
     margin-top: 24px;
-    top: 0; } }
+    top: 0; }
+  }
+
+/** Overrides Kube's .highlight properties **/
+.highlight {
+  color: #1EA896;
+  background-color: #fff;
+}

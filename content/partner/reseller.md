@@ -1,10 +1,10 @@
 +++
-title= "Be our Partner"
-description= "Be a part of SandFil International"
+title= "Become Our Reseller"
+description= "Got products to sell?"
 +++
 
 <fieldset>
-  <legend>Contact Us</legend>
+  <legend>Enter your contact details below</legend>
   <div class="form-item">
     <label>Salutation</label>
     <select class="small">

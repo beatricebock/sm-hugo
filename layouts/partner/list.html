@@ -3,12 +3,12 @@
 {{ define "main"}}
 <div id="main">
   <div class="hero" class="hero">
-    <h1>Features</h1>
+    <h1>Become Our Partner</h1>
   </div>
   <div class="components">
     <div class="row gutters">
       {{ range .Data.Pages.ByWeight }}
-      <div class="col col-6 item">
+      <div class="col col-4 item">
         <img src="{{ .Params.cover }}" />
         <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
         <p>{{ .Params.description }}</p>

@@ -41,7 +41,15 @@
   </url>
   
   <url>
-    <loc>/partner/</loc>
+    <loc>/partner/consultant/</loc>
+  </url>
+  
+  <url>
+    <loc>/partner/reseller/</loc>
+  </url>
+  
+  <url>
+    <loc>/partner/supplier/</loc>
   </url>
   
   <url>
@@ -71,6 +79,11 @@
   
   <url>
     <loc>/events/forum/</loc>
+  </url>
+  
+  <url>
+    <loc>/partner/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
