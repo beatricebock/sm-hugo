@@ -79,6 +79,7 @@ fieldset label {
   height: auto;
 }
 
+/** Menu (full sized) **/
 #top {
   display: flex;
   align-items: center;

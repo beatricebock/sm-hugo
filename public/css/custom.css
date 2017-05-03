@@ -1,5 +1,7 @@
+/** global UI override **/
+
 a {
-  color: #1EA896;
+  color: #F3B136;
   transition: all linear 0.3s;
 }
 a:hover {
@@ -8,37 +10,37 @@ a:hover {
 }
 
 button {
-  background-color: #1EA896;
+  background-color: #F3B136;
   transition: all linear 0.4s;
 }
 
 .append .button, button{
-  background-color: #1EA896;
+  background-color: #F3B136;
   transition: all linear 0.3s;
 }
 
 .button.primary.big {
-  background-color: #1EA896;
+  background-color: #F3B136;
   transition: all linear 0.3s;
 }
 .button.primary.big:hover {
-  background: #FF715B;
+  background: #F9603A;
   transition: all linear 0.3s;
 }
 .button.outline.big{
-  border-color: #1EA896;
-  color: #1EA896;
+  border-color: #F3B136;
+  color: #F3B136;
   transition: all linear 0.3s;
 }
 .button.outline.big:hover{
-  border-color: #FF715B;
-  color: #FF715B;
+  border-color: #F9603A;
+  color: #F9603A;
   transition: all linear 0.3s;
 }
 
 /** overwrites .highlight class in kube.css **/
 #features .highlight {
-  color: #1EA896;
+  color: #F3B136;
   background-color: #fff;
 }
 
@@ -47,6 +49,6 @@ button {
   transition: all linear 0.3s;
 }
 #top-brand a:hover{
-  color: #1EA896;
+  color: #F3B136;
   transition: all linear 0.3s;
 }
