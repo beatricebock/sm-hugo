@@ -768,7 +768,7 @@ body.page-account #hero {
   font-size: 16px;
   line-height: 28px; }
 
-#posts {
+.posts {
   list-style: none;
   margin: auto;
   margin-top: 48px;
@@ -776,34 +776,34 @@ body.page-account #hero {
   max-width: 680px;
   text-align: center; }
 
-#posts li {
+.posts li {
   margin-bottom: 40px; }
 
-#posts h2 {
+.posts h2 {
   font-size: 22px;
   font-weight: normal;
   margin: 0;
   line-height: 28px; }
 
-#posts h2 a {
+.posts h2 a {
   color: #1eabf2;
   text-decoration: none; }
 
-#posts h2 a:hover {
+.posts h2 a:hover {
   -moz-transition: all linear 0.2s;
   transition: all linear 0.2s;
   color: #000;
   text-decoration: underline; }
 
-#posts time {
+.posts time {
   font-size: 12px;
   color: rgba(0, 0, 0, 0.5); }
 
-#post-box {
+.post-box {
   max-width: 740px;
   margin: auto; }
 
-#post {
+.post {
   font-size: 18px;
   line-height: 32px;
   margin-bottom: 40px; }
@@ -1100,8 +1100,8 @@ tr.border-none td {
     #hero p {
       font-size: 16px;
       line-height: 24px; }
-  #posts,
-  #post-box,
+  .posts,
+  .post-box,
   #main {
     padding-left: 20px;
     padding-right: 20px; }
