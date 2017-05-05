@@ -91,7 +91,9 @@ a {
   padding: 0 36px;
   height: 88px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
-  text-align: center;}
+  text-align: center;
+  overflow: auto;
+  white-space: nowrap;}
   #top #top-brand {
     margin-right: 52px; }
     #top #top-brand span,
@@ -451,13 +453,11 @@ body.page-account .hero {
     background: #fcfcfc;
     padding: 68px 24px 60px 24px;
     margin-bottom: 20px;
-    box-shadow: 2px 2px 5px #cec8c8;
     transition: all linear 0.2s; }
     .components .item:hover {
       -moz-transition: all linear 0.2s;
       transition: all linear 0.2s;
-      background: #f8f8f8;
-      box-shadow: 3px 3px 5px #cec8c8;}
+      background: #f8f8f8;}
   .components figure {
     margin-bottom: 0; }
   .components h4 {
@@ -466,12 +466,12 @@ body.page-account .hero {
     margin-bottom: 8px;
     }
     .components h4 a {
-      color: #3794de;
+      color: #1EA896;
       text-decoration: none; }
     .components h4 a:hover {
       -moz-transition: all linear 0.2s;
       transition: all linear 0.2s;
-      color: #000;
+      color: #4C5454;
       text-decoration: underline; }
 
   .components ul {
