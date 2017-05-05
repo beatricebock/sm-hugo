@@ -58,10 +58,6 @@
   </url>
   
   <url>
-    <loc>/contact/</loc>
-  </url>
-  
-  <url>
     <loc>/customers/</loc>
     <priority>0</priority>
   </url>
@@ -75,6 +71,10 @@
     <loc>/features/</loc>
     <lastmod>2017-04-27T11:30:25+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
   </url>
   
   <url>

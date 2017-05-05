@@ -15,6 +15,11 @@ fieldset label {
   text-align: left;
 }
 
+a {
+  color: #1EA896;}
+  a:hover {
+    color: #FF715B;
+  }
 .form-centered {
   max-width: 400px;
   margin: auto;
@@ -85,7 +90,8 @@ fieldset label {
   align-items: center;
   padding: 0 36px;
   height: 88px;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.05); }
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  text-align: center;}
   #top #top-brand {
     margin-right: 52px; }
     #top #top-brand span,
@@ -196,7 +202,10 @@ fieldset label {
       color: #F7C255;}
 
 .pains {
+  padding-left: 5%;
+  padding-right: 5%;
   display: flex;
+  align-content: center;
   text-align: left;
   margin-bottom: 1em;}
   .pains i {
@@ -214,7 +223,8 @@ fieldset label {
     margin: 0 auto 1em auto;}
   #cta button, #cta .button {
     background-color: #E95524;
-    transition: all linear 0.4s;}
+    transition: all linear 0.4s;
+    width: 90%}
   #cta button:hover, #cta .button:hover {
     background-color: #F3B136;
     transition: all linear 0.4s;}
@@ -587,7 +597,6 @@ tr.border-none td {
       font-size: 2em;
     }
 
-
   .posts,
   .post-box,
   #main {
@@ -596,6 +605,7 @@ tr.border-none td {
   #action-buttons .button,
   #action-buttons button {
     margin: 8px 0; }
+
   #footer {
     display: block;
     text-align: center; }
@@ -606,8 +616,32 @@ tr.border-none td {
       margin: 8px 0; }
   }
 
+@media (min-width: 768px){
+  .pains {
+    text-align: left;
+  }
+}
+
 /** Overrides Kube's .highlight properties **/
 .highlight {
   color: #F3B136;
   background-color: #fff;
 }
+
+/** Get Invited page **/
+#forum-desc {
+  border-bottom: 1px dashed #6E6E6E;
+}
+#forum-hook {
+  padding: 5%;}
+  #forum-hook i{
+    font-size: 1.2em;
+    color: #1EA896;  }
+
+  #sign-up button, #sign-up .button{
+    background-color: #1EA896;
+    transition: all ease-in 0.4s;}
+    #sign-up button:hover, #sign-up .button:hover{
+      background-color: #FF715B;
+      transition: all ease-in 0.4s;
+    }
