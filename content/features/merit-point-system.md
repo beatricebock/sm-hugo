@@ -5,7 +5,7 @@ draft = false
 title = "Merit Point System"
 toc = true
 weight = 20
-
+cover = "/img/features/003-gift.png"
 +++
 
 # Why use a merit points system?

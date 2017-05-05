@@ -5,5 +5,5 @@ draft = false
 title = "Employee Engagement & Satisfaction Survey"
 toc = true
 weight = 20
-
+cover = "/img/features/feedback.png"
 +++

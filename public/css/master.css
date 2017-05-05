@@ -20,6 +20,10 @@ a {
   a:hover {
     color: #FF715B;
   }
+
+.center {
+  margin: 0 auto;
+}
 .form-centered {
   max-width: 400px;
   margin: auto;
@@ -439,7 +443,7 @@ body.page-account .hero {
   .components.lists {
     text-align: center; }
     .components.lists .item {
-      padding: 24px; }
+      padding: 1em; }
       .components.lists .item:hover {
         background: #f8f8f8; }
   .components .start {
@@ -491,15 +495,19 @@ body.page-account .hero {
         color: #000;
         text-decoration: underline; }
   .components p {
-    margin: auto;
     max-width: 220px;
+    margin: 0 auto;
     font-size: 13px;
     line-height: 20px;
     color: rgba(0, 0, 0, 0.5); }
   .components #docs-search-results p {
     max-width: none;
     margin-bottom: 16px; }
-
+  .components.feature-showcase {
+    text-align: left;  }
+    .components.feature-showcase p {
+      margin: 0;
+    }
 .demo-head {
   font-size: 24px;
   line-height: 32px;
@@ -596,7 +604,10 @@ tr.border-none td {
     .hero i {
       font-size: 2em;
     }
-
+  .components.feature-showcase {
+    text-align: center;  }
+  .components.feature-showcase p {
+    margin: 0 auto;  }
   .posts,
   .post-box,
   #main {

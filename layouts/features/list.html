@@ -6,13 +6,19 @@
     <h1>Features</h1>
     <p>What SandMerit can do, and specifically, what SandMerit can do for you</p>
   </div>
-  <div class="components">
+  <div class="components feature-showcase">
     <div class="row gutters">
       {{ range .Data.Pages.ByWeight }}
-      <div class="col col-6 item">
-        <img src="{{ .Params.cover }}" />
-        <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-        <p>{{ .Params.description }}</p>
+      <div class="col col-6 item component">
+        <div class="row align-center">
+          <div class="col col-3 push-middle">
+            <img src="{{ .Params.cover }}" />
+          </div>
+          <div class="col col-7">
+              <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+              <p>{{ .Params.description }}</p>
+          </div>
+        </div>
       </div>
       {{ end }}
 
