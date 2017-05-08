@@ -1,0 +1,19 @@
+<script src="https://www.gstatic.com/firebasejs/3.9.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyB6_IHVQgpQCqygky5hTI6EVQqDrmZns_Y",
+    authDomain: "form-firebase.firebaseapp.com",
+    databaseURL: "https://form-firebase.firebaseio.com",
+    projectId: "form-firebase",
+    storageBucket: "form-firebase.appspot.com",
+    messagingSenderId: "420555991067"
+  };
+  firebase.initializeApp(config);
+</script>
+
+<script>
+  var ref = firebase.database().ref('partner');
+
+  console.log(ref);
+</script>
