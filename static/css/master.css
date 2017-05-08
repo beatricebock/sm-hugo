@@ -21,6 +21,10 @@ a {
     color: #FF715B;
   }
 
+.big-icons i{
+  font-size: 2em;
+}
+
 .center {
   margin: 0 auto;
 }
@@ -194,7 +198,7 @@ a {
       left: 50%;
       margin-left: -20px;
       background: #ED734B; }
-    .hero i {
+    .hero.big-icons i {
       color: #E95524;
       font-size: 2em;
     }
@@ -601,7 +605,7 @@ tr.border-none td {
     .hero p {
       font-size: 16px;
       line-height: 24px; }
-    .hero i {
+    .hero.big-icons i {
       font-size: 2em;
     }
   .components.feature-showcase {
@@ -644,7 +648,7 @@ tr.border-none td {
   border-bottom: 1px dashed #6E6E6E;
 }
 #forum-hook {
-  padding: 5%;}
+  padding: 0 5%;}
   #forum-hook i{
     font-size: 1.2em;
     color: #1EA896;  }
