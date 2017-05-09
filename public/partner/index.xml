@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/partner/consultant/</guid>
-      <description> Enter your contact details below Salutation Mx Miss Mrs Mr   Name  E-mail  Company  Company Website  Talk to us  </description>
+      <description>Enter your contact details below Salutation Mx Miss Mrs Mr   Name  E-mail  Company  Company Website  Talk to us    $(function() { //just make a variable to keep track of the data coming from Firebase var data = []; //create a new connection to firebase var ref = new Firebase(&#39;https://form-firebase.firebaseio.com/partner/hr&#39;); //listen to data updates from firebase ref.on(&#34;value&#34;, function(snapshot) { console.log(snapshot.val()); //when data updates at Firebase, put it in the data variable data = snapshot.</description>
     </item>
     
     <item>
