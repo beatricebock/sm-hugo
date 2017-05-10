@@ -11,10 +11,12 @@
   <div class="components">
     <div class="row gutters">
       {{ range .Data.Pages.ByWeight }}
-      <div class="col col-4 item">
-        <img src="{{ .Params.img }}" alt="{{ .Title }}" />
-        <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-        <p>{{ .Params.description }}</p>
+      <div class="col col-4 item brand-item">
+        <a href="{{ .Permalink }}">
+          <img src="{{ .Params.img }}" alt="{{ .Title }}" />
+          <h4>{{ .Title }}</h4>
+          <p>{{ .Params.description }}</p>
+        </a>
       </div>
       {{ end }}
 

@@ -116,8 +116,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>We are having a workshop in JUNE, come join us!  Join our FREE forum to learn how to bring the best out of your company.  Enter your e-mail below and we&#39;ll contact you with more details.
- Presented by Datin Dr Wendy Liow Dean of ELM, HELP University  Learn how to:   Identify and overcome performance management challenges    Reward and motivate employees (the RIGHT way!</description>
+      <description>We are having seminars EVERY MONTH, come join us!  Join our FREE seminars to learn how to bring the best out of your company.  Enter your e-mail below and we&#39;ll contact you with more details.
+ Presented by Datin Dr Wendy Liow Dean of ELM, HELP University
+ Learn how to:   Identify and overcome performance management challenges    Reward and motivate employees (the RIGHT way!</description>
     </item>
     
     <item>
@@ -126,6 +127,33 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/events/forum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IJM</title>
+      <link>/customers/ijm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/customers/ijm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kenanga</title>
+      <link>/customers/kenanga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/customers/kenanga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malaysia Airports</title>
+      <link>/customers/msia-airport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/customers/msia-airport/</guid>
       <description></description>
     </item>
     

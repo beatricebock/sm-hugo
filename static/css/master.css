@@ -217,12 +217,14 @@ a {
   display: flex;
   align-content: center;
   text-align: left;
-  margin-bottom: 1em;}
+  margin-bottom: 0.4em;}
   .pains i {
     margin-right: 1em;}
   .pains h5 {
     font-weight: 500;
     color: #545454;}
+.pains:first-child {
+  margin-bottom: 0;}
 
   #cta p {
     font-size: 1em;}
@@ -238,6 +240,13 @@ a {
   #cta button:hover, #cta .button:hover {
     background-color: #F3B136;
     transition: all linear 0.4s;}
+  #cta button .outline, #cta .button.outline {
+    background-color: #fff;}
+  #cta button .outline:hover, #cta .button.outline:hover {
+    border-color: #E95524;
+    color: #E95524;
+    background-color: #fff;
+    transition: all linear 0.4s; }
 
 #scroll-more {
   text-align: center;
@@ -271,6 +280,15 @@ text-align: center; }
   color: rgba(0, 0, 0, 0.75); }
 #features .item {
   padding: 0 24px; }
+
+.brand-item a, .brand-item h4{
+  color: #1EA896;
+  transition: all linear 0.4s;
+  text-decoration: none;}
+  .brand-item a:hover, .brand-item h4:hover{
+    color: #FF715B;
+    transition: all linear 0.4s;}
+
 
 #contents {
   counter-reset: count;
@@ -633,15 +651,18 @@ tr.border-none td {
 
 @media (min-width: 768px){
   .pains {
-    text-align: left;
-  }
+    text-align: left;  }
+  #action-buttons .button,
+  #action-buttons button {
+    width: 45%; }
+  .brand-item img {
+    max-height: 35px;  }
 }
 
 /** Overrides Kube's .highlight properties **/
 .highlight {
   color: #F3B136;
-  background-color: #fff;
-}
+  background-color: #fff;}
 
 /** Get Invited page **/
 #forum-desc {

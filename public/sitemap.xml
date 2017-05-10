@@ -82,6 +82,18 @@
   </url>
   
   <url>
+    <loc>/customers/ijm/</loc>
+  </url>
+  
+  <url>
+    <loc>/customers/kenanga/</loc>
+  </url>
+  
+  <url>
+    <loc>/customers/msia-airport/</loc>
+  </url>
+  
+  <url>
     <loc>/partner/</loc>
     <priority>0</priority>
   </url>
