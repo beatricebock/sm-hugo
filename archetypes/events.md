@@ -1,5 +1,5 @@
 +++
 title = ""
 description = ""
-date: ""
+date = ""
 +++

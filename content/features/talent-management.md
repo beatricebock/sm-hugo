@@ -4,7 +4,7 @@ description = "Talent Management Solutions for more complex functions"
 draft = false
 title = "Talent Management Solutions"
 toc = true
-weight = 20
+weight = 30
 cover="/img/features/001-stats.png"
 
 +++

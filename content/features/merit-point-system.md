@@ -4,7 +4,7 @@ description = "Merit Point System for KPI calculation"
 draft = false
 title = "Merit Point System"
 toc = true
-weight = 20
+weight = 10
 cover = "/img/features/003-gift.png"
 +++
 

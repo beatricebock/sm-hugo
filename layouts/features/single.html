@@ -7,9 +7,8 @@
 <div class="hero">
     <h1 itemprop="headline">  {{.Title}}</h1>
     {{ if .Description }}
-<blockquote itemprop="description">{{ .Description }}</blockquote>
+<p itemprop="description">{{ .Description }}</p>
 {{ end }}
-<time class="post-time">{{ partial "post/meta" . }}</time>
 </div>
 <div class="post-box">
 <div class="post" itemprop="articleBody">

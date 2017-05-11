@@ -4,6 +4,6 @@ description = "Year End Appraisal for meticulous companies"
 draft = false
 title = "Year End Appraisal"
 toc = true
-weight = 20
+weight = 30
 cover = "/img/features/appraisal.png"
 +++

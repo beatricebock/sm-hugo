@@ -6,6 +6,8 @@
 <div class="hero" class="wrap">
   <h1>{{.Title }}</h1>
     <p>{{.Params.description}}</p>
+
+    <time class="post-time">{{ partial "post/meta" . }}</time>
 </div>
 <ul class="posts">
 
