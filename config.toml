@@ -1,16 +1,18 @@
-baseURL = "/"
+baseURL = "/" # "/" defines the root url as the baseurl
 languageCode = "en-us"
-title = "SandMerit"
+title = "SandMerit" # Site's Title.
 
-description = "This site was built using Kube with the intent of learning how to customize Hugo themes"
+description = "SandMerit is a reward system for people management" # description of the site. Will be used as the default value for the meta description tag.
 Paginate = 4
 [Params]
   RSSLink = "/index.xml"
   author = "SandFil" # add your company name
-  github = "" # add your github profile name
-  twitter = "" # add your twitter profile
-  email = "myemail@myaddress.xxx"
+  email = "info@sandfil.com" # email
 
+# Menu items
+# "name" defines the text displayed for the link.
+# "weight" determines the order of each menu item
+# "url" is the directory the menu link will point towards.
 [[menu.main]]
     name = "Features"
     weight = -100

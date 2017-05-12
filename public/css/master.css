@@ -199,17 +199,16 @@ a {
       background: #ED734B; }
     .hero.big-icons i {
       color: #E95524;
-      font-size: 2em;
-    }
+      font-size: 2em;    }
 
-  .hero.hook {}
     .hero.hook h1 {
       color: #F3B136;}
     .hero.hook span {
       color: #E95524;}
     .hero #sand {
       color: #F7C255;}
-
+    .hero.title {
+      margin-bottom: 2em;  }
 .pains {
   padding-left: 5%;
   padding-right: 5%;
@@ -624,6 +623,9 @@ tr.border-none td {
       line-height: 24px; }
     .hero.big-icons i {
       font-size: 2em;
+    }
+    .hero.title {
+      margin-bottom: 2em;
     }
   .components.feature-showcase {
     text-align: center;  }

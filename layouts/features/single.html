@@ -4,7 +4,7 @@
 {{ define "main"}}
 <div class="push-center" itemscope itemtype="http://schema.org/BlogPosting">
     {{ template "_internal/schema.html" . }}
-<div class="hero">
+<div class="hero title">
     <h1 itemprop="headline">  {{.Title}}</h1>
     {{ if .Description }}
 <p itemprop="description">{{ .Description }}</p>
