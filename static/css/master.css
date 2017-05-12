@@ -221,7 +221,7 @@ a {
   .pains h5 {
     font-weight: 500;
     color: #545454;}
-.pains:first-child {
+.pains:last-child {
   margin-bottom: 0;}
 
   #cta p {
