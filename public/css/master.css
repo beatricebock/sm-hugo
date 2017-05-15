@@ -439,6 +439,15 @@ body.page-account .hero {
   line-height: 32px;
   margin-bottom: 40px; }
 
+.posts .posts-item {
+  padding-bottom: 2em;
+  margin-bottom: 2em;
+  border-bottom: 1px solid #d3d3d3;}
+
+  .posts .posts-item:last-child {
+    border: none;
+  }
+
 
 
 #kube-faq {

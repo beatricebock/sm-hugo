@@ -27,6 +27,11 @@
   </url>
   
   <url>
+    <loc>/events/forum/</loc>
+    <lastmod>2017-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/services/performance-management/</loc>
     <lastmod>2017-04-27T12:46:37+08:00</lastmod>
   </url>
@@ -34,6 +39,26 @@
   <url>
     <loc>/services/public-training/</loc>
     <lastmod>2017-04-27T12:46:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/hrca-2015/</loc>
+    <lastmod>2015-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/hrca-2014/</loc>
+    <lastmod>2014-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/hrca-2011/</loc>
+    <lastmod>2011-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/hrca-2010/</loc>
+    <lastmod>2010-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -68,6 +93,7 @@
   
   <url>
     <loc>/events/</loc>
+    <lastmod>2017-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -79,14 +105,6 @@
   
   <url>
     <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/events/hrca-2010/</loc>
-  </url>
-  
-  <url>
-    <loc>/events/forum/</loc>
   </url>
   
   <url>

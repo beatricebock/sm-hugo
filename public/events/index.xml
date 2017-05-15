@@ -6,25 +6,53 @@
     <description>Recent content in Events on SandMerit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 15 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>HRCA 2010</title>
-      <link>/events/hrca-2010/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>How to Reward Employees</title>
+      <link>/events/forum/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/events/hrca-2010/</guid>
+      <guid>/events/forum/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How to Reward Employees</title>
-      <link>/events/forum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>HRCA 2015</title>
+      <link>/events/hrca-2015/</link>
+      <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/events/forum/</guid>
+      <guid>/events/hrca-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HRCA 2014</title>
+      <link>/events/hrca-2014/</link>
+      <pubDate>Sat, 20 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/events/hrca-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HRCA 2011</title>
+      <link>/events/hrca-2011/</link>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/events/hrca-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HRCA 2010</title>
+      <link>/events/hrca-2010/</link>
+      <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/events/hrca-2010/</guid>
       <description></description>
     </item>
     
