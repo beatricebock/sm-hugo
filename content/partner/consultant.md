@@ -5,9 +5,11 @@ description= "Got expertise to share?"
 
 <fieldset>
   <legend>Enter your contact details below</legend>
+  <form action="https://formspree.io/wilson@sandfil.com" method="post">
+    <div class="invisible"><input type="text" name="Submission type" value="HR Consultant"></div> <!-- Hidden inout for form data  -->
   <div class="form-item">
     <label>Salutation</label>
-    <select class="small">
+    <select class="small" name="(HR) Salutation">
       <option value="Mx">Mx</option>
       <option value="Miss">Miss</option>
       <option value="Mrs">Mrs</option>
@@ -16,20 +18,25 @@ description= "Got expertise to share?"
   </div>
   <div class="form-item">
     <label>Name</label>
-    <input type="text" name="name" placeholder="Name" required/>
+    <input type="text" name="(HR) Name" placeholder="Name" required/>
   </div>
   <div class="form-item">
     <label>E-mail<span class="req"></span></label>
-    <input type="email" name="email" placeholder="example@company.com" required/>
+    <input type="email" name="(HR) Email" placeholder="Eg: example@company.com" required/>
   </div>
-
+  <div class="form-item">
+    <label>Contact Number</label>
+    <input type="tel" name="(HR) Number" placeholder="Eg: 01122223333" pattern="^(1?)(-| ?)(\()?([0-9]{3})(\)|-| |\)-|\) )?([0-9]{3})(-| )?([0-9]{4}|[0-9]{4})$">
+    <div class="desc">Please enter your mobile or company number in either of the following formats: (011)222-3333 | 0390008888 | 011-222-3333 </div>
+  </div>
   <div class="form-item">
     <label>Company</label>
-    <input type="text" name="company" placeholder="Company Co." required/>
+    <input type="text" name="(HR) Company" placeholder="Eg: Company Co." required/>
   </div>
   <div class="form-item">
     <label>Company Website</label>
-    <input type="url" name="site" placeholder="example.com" />
+    <input type="url" name="(HR) Website" placeholder="Eg: http://example.com" />
   </div>
-  <button>Talk to us</button>
+  <input type="submit" value="Talk to Us" class="button primary width-100">
+  </form>
 </fieldset>
