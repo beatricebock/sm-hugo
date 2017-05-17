@@ -665,8 +665,12 @@ tr.border-none td {
   #action-buttons .button,
   #action-buttons button {
     width: 45%; }
-  .brand-item img {
-    max-height: 35px;  }
+  .brand-item {
+    display: flex;
+    justify-content: center;
+    align-items: center}
+    .brand-item img {
+      max-height: 80px;  }
 }
 
 /** Overrides Kube's .highlight properties **/

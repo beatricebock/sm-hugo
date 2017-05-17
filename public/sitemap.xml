@@ -27,6 +27,21 @@
   </url>
   
   <url>
+    <loc>/customers/zuellig/</loc>
+    <lastmod>2017-05-17T09:38:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/customers/ricoh/</loc>
+    <lastmod>2017-05-17T09:37:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/customers/fn/</loc>
+    <lastmod>2017-05-17T09:36:35+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/events/reward-employees-may/</loc>
     <lastmod>2017-05-15T00:00:00+00:00</lastmod>
   </url>
@@ -88,6 +103,7 @@
   
   <url>
     <loc>/customers/</loc>
+    <lastmod>2017-05-17T09:38:03+08:00</lastmod>
     <priority>0</priority>
   </url>
   
