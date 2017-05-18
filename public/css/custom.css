@@ -44,3 +44,7 @@ button, .button {
   #top-brand a:hover{
     color: #F3B136;
     transition: all linear 0.3s;}
+
+.hero.hook form {
+  margin-bottom: 0;
+}
