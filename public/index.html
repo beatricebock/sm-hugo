@@ -156,8 +156,12 @@
             <input type="text" name="(Seminar) Name" placeholder="EG: John Doe" required>
           </div>
           <div class="form-item">
-              <label>Enter Your E-mail</label>
+            <label>Enter Your E-mail & Contact number</label>
+            <div class="prepend">
               <input type="email" name="(Seminar) Email" placeholder="your@email.com" required/>
+              <input type="tel" name="(Seminar) phone" autocomplete="off" placeholder="Eg: 0390008888" pattern="^(1?)(-| ?)(\()?([0-9]{3})(\)|-| |\)-|\) )?([0-9]{3})(-| )?([0-9]{4}|[0-9]{4})$" required>
+            </div>
+
           </div>
           <div class="form-item">
           </div>
