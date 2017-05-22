@@ -66,3 +66,10 @@
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face {
+  font-family: 'Lato';
+  src: url('https://fonts.googleapis.com/css?family=Lato');
+  font-weight: normal;
+  font-style: normal
+}
