@@ -16,5 +16,4 @@
   {{ with .Params.tags }}
     and tagged {{ delimit (apply (apply (sort .) "partial" "post/tag-link" ".") "chomp" ".") ", " " and " }}
   {{ end }}
-  using <span itemprop="wordCount">{{ .WordCount }}</span> words.
 </p>

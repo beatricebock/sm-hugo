@@ -6,18 +6,28 @@
     <description>Recent content in Services on SandMerit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2017 12:46:37 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 11:29:29 +0800</lastBuildDate>
     
 	<atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Performance Management</title>
-      <link>/services/performance-management/</link>
+      <title>HR Consultancy</title>
+      <link>/services/hr-consultancy/</link>
+      <pubDate>Mon, 22 May 2017 11:29:29 +0800</pubDate>
+      
+      <guid>/services/hr-consultancy/</guid>
+      <description>We have a group of experienced HR consultants who can assist your organization to design a performance management framework.</description>
+    </item>
+    
+    <item>
+      <title>In-house Training</title>
+      <link>/services/inhouse-training/</link>
       <pubDate>Thu, 27 Apr 2017 12:46:37 +0800</pubDate>
       
-      <guid>/services/performance-management/</guid>
-      <description></description>
+      <guid>/services/inhouse-training/</guid>
+      <description>We understand the challenges faced by some organizations when setting up KPIs.
+We have designed the in-house training programme specifically to help you learn the best way to set company KPIs for managers. Our HR Consultant will provide hands-on KPI setting training that are based on actual scenarios.</description>
     </item>
     
     <item>
@@ -26,7 +36,9 @@
       <pubDate>Thu, 27 Apr 2017 12:46:22 +0800</pubDate>
       
       <guid>/services/public-training/</guid>
-      <description></description>
+      <description>We host regular public workshops on KPI setting.
+These public workshops will not only allow your managers to learn how to set KPIs, but also provide an opportunity for them to learn best practices from other organizations.
+The workshop is conducted in an very interactive way, allowing for hands-on training.</description>
     </item>
     
   </channel>

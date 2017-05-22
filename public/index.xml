@@ -17,7 +17,9 @@
       <pubDate>Thu, 27 Apr 2017 11:20:25 +0800</pubDate>
       
       <guid>/features/merit-point-system/</guid>
-      <description> Why use a merit points system? </description>
+      <description>We recognize the importance of ongoing monitoring and timely feedback on employees’ behavior and performance.
+We recommend the use of Merit Points to recognize and reward the employees’ performance achievements. This also allows the employees to benchmark their performance within the organization.
+With the Merit Point system, the year end appraisal KPI will be calculated automatically for review purposes. This makes the year end appraisal simple and effective.</description>
     </item>
     
     <item>
@@ -36,7 +38,12 @@ As such, we highly recommend you to conduct an Employee Satisfaction &amp;amp; E
       <pubDate>Thu, 27 Apr 2017 11:30:25 +0800</pubDate>
       
       <guid>/features/talent-management/</guid>
-      <description></description>
+      <description>If your organization is looking for comprehensive talent management solutions that include features such as
+ Competency Management System,
+ Performance Management System,
+ Succession Planning System,
+ Training Management System,
+ E-Learning etc,  Please visit Sandfil.com for more information.</description>
     </item>
     
     <item>
@@ -60,20 +67,20 @@ How will the 360 Assessement help my company? 360 Assessment helps to increases 
     </item>
     
     <item>
+      <title>HR Consultancy</title>
+      <link>/services/hr-consultancy/</link>
+      <pubDate>Mon, 22 May 2017 11:29:29 +0800</pubDate>
+      
+      <guid>/services/hr-consultancy/</guid>
+      <description>We have a group of experienced HR consultants who can assist your organization to design a performance management framework.</description>
+    </item>
+    
+    <item>
       <title>Zuellig Group</title>
       <link>/customers/zuellig/</link>
       <pubDate>Wed, 17 May 2017 09:38:03 +0800</pubDate>
       
       <guid>/customers/zuellig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ricoh</title>
-      <link>/customers/ricoh/</link>
-      <pubDate>Wed, 17 May 2017 09:37:55 +0800</pubDate>
-      
-      <guid>/customers/ricoh/</guid>
       <description></description>
     </item>
     
@@ -96,12 +103,13 @@ How will the 360 Assessement help my company? 360 Assessment helps to increases 
     </item>
     
     <item>
-      <title>Performance Management</title>
-      <link>/services/performance-management/</link>
+      <title>In-house Training</title>
+      <link>/services/inhouse-training/</link>
       <pubDate>Thu, 27 Apr 2017 12:46:37 +0800</pubDate>
       
-      <guid>/services/performance-management/</guid>
-      <description></description>
+      <guid>/services/inhouse-training/</guid>
+      <description>We understand the challenges faced by some organizations when setting up KPIs.
+We have designed the in-house training programme specifically to help you learn the best way to set company KPIs for managers. Our HR Consultant will provide hands-on KPI setting training that are based on actual scenarios.</description>
     </item>
     
     <item>
@@ -110,7 +118,9 @@ How will the 360 Assessement help my company? 360 Assessment helps to increases 
       <pubDate>Thu, 27 Apr 2017 12:46:22 +0800</pubDate>
       
       <guid>/services/public-training/</guid>
-      <description></description>
+      <description>We host regular public workshops on KPI setting.
+These public workshops will not only allow your managers to learn how to set KPIs, but also provide an opportunity for them to learn best practices from other organizations.
+The workshop is conducted in an very interactive way, allowing for hands-on training.</description>
     </item>
     
     <item>
@@ -195,11 +205,20 @@ How will the 360 Assessement help my company? 360 Assessment helps to increases 
     </item>
     
     <item>
-      <title>Get Invited</title>
+      <title>Contact Us</title>
       <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Get Invited</title>
+      <link>/invite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/invite/</guid>
       <description>We are having seminars EVERY MONTH, come join us!  Join our FREE seminars to learn how to bring the best out of your company.  Enter your e-mail below and we&#39;ll contact you with more details.
  Presented by Datin Dr Wendy Liow Dean of ELM, HELP University
  Learn how to:   Identify and overcome performance management challenges    Reward and motivate employees (the RIGHT way!</description>
