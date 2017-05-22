@@ -150,17 +150,28 @@ a {
       border-radius: 28px;
       padding: 0 20px;
       transition: ease-in 0.2s; }
+      #top #top-nav-extra :first-child {
+        margin-right: 5%;
+      }
     #top #top-nav-extra a:hover {
       -moz-transition: all linear 0.2s;
       transition: all linear 0.2s;
       color: #fff;
-      background-color: #ED734B;
-      border: 1px solid #ED734B;
+      background-color: #F9603A;
+      border: 1px solid #F9603A;
       border-radius: 28px;
       text-decoration: none; }
     #top #top-nav-extra span {
       color: rgba(0, 0, 0, 0.4);
       border-color: rgba(0, 0, 0, 0.2); }
+    #top #top-nav-extra a#invite {
+      color: #fff;
+      background-color: #F9603A;
+      border-color: #F9603A;}
+      #top #top-nav-extra a#invite:hover {
+      color: #fff;
+      background-color: #F3B136;
+      border-color: #F3B136;}
 
 .hero {
   padding-top: 2em;
@@ -611,6 +622,9 @@ tr.border-none td {
       width: auto;
       margin: 16px 0;
       padding: 0; }
+    #top #top-nav-extra :first-child {
+      margin-right: 0;
+    }
   #subnav li,
   #subnav ul li {
     text-align: center;

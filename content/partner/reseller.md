@@ -1,6 +1,6 @@
 +++
 title= "Become Our Reseller"
-description= "Got products to sell?"
+description= "Work with us to reach the target clients and we have very attractive profit-sharing scheme with Resellers."
 +++
 
 <fieldset>

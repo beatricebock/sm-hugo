@@ -1,6 +1,6 @@
 +++
 title= "Become Our HR Consultant"
-description= "Got expertise to share?"
+description= "We welcome HR Consultants and HR Practitioners who believe in what we do to work with us to provide value-added services to our good clients."
 +++
 
 <fieldset>

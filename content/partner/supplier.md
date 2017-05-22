@@ -1,6 +1,6 @@
 +++
 title= "Become Our Supplier"
-description= "Got products to sell?"
+description= " Our clients are rewarding their employees with attractive gifts and services. If you interested to provide the gifts or services to our group of clients, we are happy to channel it to our clients."
 +++
 
 <fieldset>
