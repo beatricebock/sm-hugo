@@ -113,26 +113,76 @@
     <nav id="top-nav-extra">
       <ul>
         <li>
-          <a id="invite" href="/invite/">Get Invited</a>
+          <a href="/contact/">Contact Us</a>
         </li>
         <li>
-          <a href="/contact/">Contact Us</a>
+          <a id="invite" href="/invite/">Get Invited</a>
         </li>
       </ul>
     </nav>
   </div>
  </header>
   <main>
-
-<div class="hero" class="wrap">
+<div id="events" class="wrap hero hook big-icons">
   <h1>Events</h1>
-    <p>See what SandFil and our partners have been up to.</p>
-</div>
+    <p>
+      Get invited to our <span>FREE</span> seminars to learn how <span>SandMerit is a solution</span> for problems like:
+    </p>
+    <br  />
+    <div class="row gutters align-center" >
+      <div class="col col-5 item" id ="pains">
+        <div class="pains">
+          <i class="fa fa-thermometer-full"></i>
+          <h5>Employee <span>performance </span>issues</h5>
+        </div>
+        <div class="pains">
+          <i class="fa fa-thermometer-3"></i>
+          <h5><span>Ineffective</span> year end appraisals</h5>
+        </div>
+        <div class="pains">
+          <i class="fa fa-thermometer-2"></i>
+          <h5>Employee <span>disciplinary </span>issues</h5>
+        </div>
+        <div class="pains">
+          <i class="fa fa-thermometer-2"></i>
+          <h5>Employee <span>attitude </span>issues</h5>
+        </div>
 
-  <div class="message success w50 w100-sm center" data-component="message"> We hold FREE seminars EVERY MONTH, come join us! Click <a href="/contact/">here</a> to receive an exclusive invitation.<span class="close small"></span></div>
 
+      </div>
+      <div class="col col-4 item" id="cta">
+        <form class="" action="https://formspree.io/wilson@sandfil.com" method="post">
+          <div class="form-item">
+            <label>Enter Your Name</label>
+            <input type="text" name="(Seminar) Name" placeholder="EG: John Doe" required>
+          </div>
+          <div class="form-item">
+            <label>Enter Your E-mail & Contact number</label>
+            <div class="prepend">
+              <input type="email" name="(Seminar) Email" placeholder="your@email.com" required/>
+              <input type="tel" name="(Seminar) phone" autocomplete="off" placeholder="Eg: 0390008888" pattern="^(1?)(-| ?)(\()?([0-9]{3})(\)|-| |\)-|\) )?([0-9]{3})(-| )?([0-9]{4}|[0-9]{4})$" required>
+            </div>
 
-<ul class="posts">
+          </div>
+          <div class="form-item">
+          </div>
+          <div id="action-buttons">
+            <input type="submit" class="button primary big" href="" value="Get Invited">
+            <a class="button outline big" href="/invite/">Learn More</a>
+          </div>
+        </form>
+      </div>
+    </div>
+    <br>
+  </div>
+  <div id="scroll-more">
+      <a href="#event-posts" alt="scroll down to features"><span class="caret down"></span></a>
+  </div>
+  <hr>
+
+<br />
+<div class="message success w50 w100-sm center" data-component="message"> We hold FREE seminars EVERY MONTH, come join us! Click <a href="/contact/">here</a> to receive an exclusive invitation.<span class="close small"></span></div>
+<ul class="posts" id="event-posts">
 
   <div itemscope itemtype="http://schema.org/CreativeWork" class="posts-item">
     <h2 class="title">
@@ -185,6 +235,44 @@
 </nav>
 </section>
 </ul>
+<script>
+
+
+
+
+function filterPath(string) {
+return string
+  .replace(/^\//, '')
+  .replace(/(index|default).[a-zA-Z]{3,4}$/, '')
+  .replace(/\/$/, '');
+}
+
+var locationPath = filterPath(location.pathname);
+$('a[href*="#"]').each(function () {
+var thisPath = filterPath(this.pathname) || locationPath;
+var hash = this.hash;
+if ($("#" + hash.replace(/#/, '')).length) {
+  if (locationPath == thisPath && (location.hostname == this.hostname || !this.hostname) && this.hash.replace(/#/, '')) {
+    var $target = $(hash), target = this.hash;
+    if (target) {
+      $(this).click(function (event) {
+        event.preventDefault();
+        $('html, body').animate({scrollTop: $target.offset().top}, 1000, function () {
+          location.hash = target;
+          $target.focus();
+          if ($target.is(":focus")){ 
+            return false;
+          }else{
+            $target.attr('tabindex','-1'); 
+            $target.focus(); 
+          };
+        });
+      });
+    }
+  }
+}
+});
+</script>
 
 </main>
   <footer>
