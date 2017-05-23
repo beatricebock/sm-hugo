@@ -255,7 +255,9 @@ a {
     color: #E95524;
     background-color: #fff;
     transition: all linear 0.4s; }
-
+.action-buttons .button.primary {
+    background-color: #E95524;
+  }
 #scroll-more {
   text-align: center;
   margin-bottom: 2em;}
@@ -606,6 +608,14 @@ tr.border-none td {
     color: #000;
     text-decoration: underline; }
 
+@media (max-width: 335px) {
+  .action-buttons a,
+  .action-buttons .button {
+    margin: 8px 0;
+    width: 139px;
+    }
+  }
+
 @media (max-width: 768px) {
   #top {
     display: block;
@@ -627,8 +637,7 @@ tr.border-none td {
       margin: 16px 0;
       padding: 0; }
     #top #top-nav-extra :first-child {
-      margin-right: 0;
-    }
+      margin-right: 0;    }
   #subnav li,
   #subnav ul li {
     text-align: center;
@@ -663,9 +672,6 @@ tr.border-none td {
   #main {
     padding-left: 20px;
     padding-right: 20px; }
-  #action-buttons .button,
-  #action-buttons button {
-    margin: 8px 0; }
 
   #footer {
     display: block;
@@ -676,6 +682,7 @@ tr.border-none td {
     #footer nav ul li {
       margin: 8px 0; }
   }
+
 
 @media (min-width: 768px){
   .pains {
