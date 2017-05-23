@@ -212,14 +212,13 @@ a {
       color: #E95524;
       font-size: 2em;    }
 
-    .hero.hook h1 {
-      color: #F3B136;}
     .hero.hook span {
       color: #E95524;}
     .hero #sand {
       color: #F7C255;}
     .hero.title {
       margin-bottom: 2em;  }
+
 .pains {
   padding-left: 5%;
   padding-right: 5%;
@@ -275,20 +274,25 @@ a {
     transform: scale(1.4);
     transition: all linear 0.2s; }
 
-#features {
+#benefits {
 margin: 50px 0 104px 0;
 text-align: center; }
-#features h3 {
+#benefits h3 {
   margin-top: 0; }
-#features .row:first-child {
+#benefits .row:first-child {
   padding-bottom: 2em;
   margin-bottom: 2em;
   border-bottom: 1px dashed #afafaf;}
-#features p {
+#benefits p {
   font-size: 15px;
   color: rgba(0, 0, 0, 0.75); }
-#features .item {
+#benefits .item {
   padding: 0 24px; }
+
+#sm-features h4 {
+  color: #1EA896;}
+#sm-features .item img {
+  width: 48px}
 
 .brand-item a, .brand-item h4{
   color: #1EA896;
@@ -685,6 +689,8 @@ tr.border-none td {
     align-items: center}
     .brand-item img {
       max-height: 80px;  }
+  .components .item {
+    padding: 40px 24px 40px;  }
 }
 
 /** Overrides Kube's .highlight properties **/
