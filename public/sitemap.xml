@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/features/merit-point-system/</loc>
-    <lastmod>2017-04-27T11:20:25+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/features/employee-feedback/</loc>
     <lastmod>2017-04-27T11:30:15+08:00</lastmod>
   </url>
@@ -134,7 +129,7 @@
   
   <url>
     <loc>/features/</loc>
-    <lastmod>2017-04-27T11:20:25+08:00</lastmod>
+    <lastmod>2017-04-27T11:30:15+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -161,7 +156,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-04-27T11:20:25+08:00</lastmod>
+    <lastmod>2017-04-27T11:30:15+08:00</lastmod>
   </url>
   
   <url>

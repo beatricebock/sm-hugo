@@ -27,6 +27,10 @@ a {
 .center {
   margin: 0 auto;
 }
+
+.desc {
+  color: rgba(0, 0, 0, 0.7);
+}
 .form-centered {
   max-width: 400px;
   margin: auto;
@@ -190,7 +194,7 @@ a {
     margin: auto;
     font-size: 21px;
     line-height: 32px;
-    color: rgba(0, 0, 0, 0.5);
+    color: rgba(0, 0, 0, 0.7);
     margin-top: 28px;
     padding-top: 28px;
     margin-bottom: 0;
@@ -545,7 +549,7 @@ body.page-account .hero {
     margin: 0 auto;
     font-size: 13px;
     line-height: 20px;
-    color: rgba(0, 0, 0, 0.5); }
+    color: rgba(0, 0, 0, 0.7); }
   .components #docs-search-results p {
     max-width: none;
     margin-bottom: 16px; }

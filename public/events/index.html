@@ -153,20 +153,23 @@
       <div class="col col-4 item" id="cta">
         <form class="" action="https://formspree.io/wilson@sandfil.com" method="post">
           <div class="form-item">
-            <label>Enter Your Name</label>
-            <input type="text" name="(Seminar) Name" placeholder="EG: John Doe" required>
+            <label>Enter Your Name & Company</label>
+            <div class="prepend">
+              <input type="text" name="(Seminar) Name" placeholder="EG: John Doe" required>
+              <input type="text" name="(Seminar) Company" placeholder="EG: SandFil International" required>
+            </div>
           </div>
           <div class="form-item">
             <label>Enter Your E-mail & Contact number</label>
             <div class="prepend">
-              <input type="email" name="(Seminar) Email" placeholder="your@email.com" required/>
+              <input type="email" name="(Seminar) Email" placeholder="Eg: your@email.com" required/>
               <input type="tel" name="(Seminar) phone" autocomplete="off" placeholder="Eg: 0390008888" pattern="^(1?)(-| ?)(\()?([0-9]{3})(\)|-| |\)-|\) )?([0-9]{3})(-| )?([0-9]{4}|[0-9]{4})$" required>
             </div>
 
           </div>
           <div class="form-item">
           </div>
-          <div id="action-buttons">
+          <div id="action-buttons" class="action-buttons">
             <input type="submit" class="button primary big" href="" value="Get Invited">
             <a class="button outline big" href="/invite/">Learn More</a>
           </div>
@@ -309,7 +312,7 @@ if ($("#" + hash.replace(/#/, '')).length) {
         </li>
       </ul>
     </nav>
-    <p>&copy; Licence SandFil</p>
+    <p>SandFil International &copy; 2017</p>
     
   </footer>
 
