@@ -8,8 +8,13 @@
       Our satisfied customers and their take on our products and services
     </p>
   </div>
+  <hr>
   <div class="components">
     <div class="row gutters">
+      <div class="col col-12">
+        <h2>Testimonials</h2>
+        <br>
+      </div>
       {{ range .Data.Pages.ByWeight }}
       <div class="col col-4 item brand-item">
         <a href="{{ .Permalink }}">
@@ -19,9 +24,57 @@
         </a>
       </div>
       {{ end }}
-
+    </div>
+    <hr>
+    <div class="row gutters">
+      <div class="col col-12">
+        <h2>More Happy Customers</h2>
+        <br>
+      </div>
+      <div class="col col-3 item brand-item other-brands">
+        <img src="img/ccm.png" alt="ccm">
+        <h4>CCM</h4>
+      </div>
+      <div class="col col-3 item brand-item other-brands">
+        <img src="img/fn.png" alt="fraser and neave">
+        <h4>Fraser and Neave</h4>
+      </div>
+      <div class="col col-3 item brand-item other-brands">
+        <img src="img/ijm.png" alt="ijm">
+        <h4>IJM Corporation</h4>
+      </div>
+      <div class="col col-3 item brand-item other-brands">
+        <div class="push-middle">
+          <img src="img/kenanga.png" alt="kenanga">
+          <h4>Kenanga</h4>
+        </div>
+      </div>
+      <div class="col col-3 item brand-item other-brands">
+        <img src="img/msia-airports.png" alt="malaysia airports">
+        <h4>Malaysia Airports</h4>
+      </div>
+      <div class="col col-3 item brand-item other-brands">
+        <img src="img/ricoh.png" alt="ricoh">
+        <h4>Ricoh</h4>
+      </div>
+      <div class="col col-3 item brand-item other-brands">
+        <img src="img/zuellig.png" alt="zuellig">
+        <h4>Zuellig Group</h4>
+      </div>
+    </div>
+    <div class="row gutters">
+      <div class="col col-12">
+        <h2>Our Team and Our Customers</h2>
+      </div>
+      <div class="col col-6">
+        <img src="/img/customers/Alpha-Industries.JPG" alt="">
+      </div>
+      <div class="col col-6">
+        <img class="w100"src="/img/customers/KPS.JPG" alt="">
+      </div>
     </div>
   </div>
+
 </div>
 {{ end }}
 

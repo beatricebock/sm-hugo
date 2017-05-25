@@ -307,6 +307,13 @@ text-align: center; }
   .brand-item a:hover, .brand-item h4:hover{
     color: #FF715B;
     transition: all linear 0.4s;}
+  .brand-item img {
+    max-height: 80px;
+    max-width: 200px;  }
+  .brand-item.other-brands {
+    flex-direction: column;}
+  .brand-item.other-brands h4, .brand-item.other-brands h4:hover{
+    color: #222;}
 
 
 #contents {
