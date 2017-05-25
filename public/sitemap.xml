@@ -72,6 +72,11 @@
   </url>
   
   <url>
+    <loc>/customers/phhp/</loc>
+    <lastmod>2016-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/events/hrca-2015/</loc>
     <lastmod>2015-12-20T00:00:00+00:00</lastmod>
   </url>
@@ -97,6 +102,11 @@
   </url>
   
   <url>
+    <loc>/customers/deloitte/</loc>
+    <lastmod>2012-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/events/hrca-2011/</loc>
     <lastmod>2011-12-12T00:00:00+00:00</lastmod>
   </url>
@@ -107,8 +117,23 @@
   </url>
   
   <url>
+    <loc>/customers/dr/</loc>
+    <lastmod>2011-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/events/hrca-2010/</loc>
     <lastmod>2010-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/customers/kpmg/</loc>
+    <lastmod>2010-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/customers/gspp/</loc>
+    <lastmod>2008-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
