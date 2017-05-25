@@ -5,5 +5,11 @@ date = '2017-05-25'
 +++
 {{< load-photoswipe >}}
 
-## We go on fun trips
-{{<gallery dir="img/events/hrdf2015/" caption-position="none" />}}
+## To put it simply, we're a family.
+{{<gallery dir="img/companytrip/" />}}
+
+
+#### Interested?
+Let's talk.
+
+![](/img/contact.png)
