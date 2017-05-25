@@ -699,7 +699,8 @@ tr.border-none td {
     justify-content: center;
     align-items: center}
     .brand-item img {
-      max-height: 80px;  }
+      max-height: 80px;
+      max-width: 200px;  }
   .components .item {
     padding: 40px 24px 40px;  }
 }
