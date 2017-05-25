@@ -6,28 +6,10 @@
     <description>Recent content in Customers on SandMerit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 May 2017 09:38:03 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Feb 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/customers/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Zuellig Group</title>
-      <link>/customers/zuellig/</link>
-      <pubDate>Wed, 17 May 2017 09:38:03 +0800</pubDate>
-      
-      <guid>/customers/zuellig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fraser and Neave Ltd</title>
-      <link>/customers/fn/</link>
-      <pubDate>Wed, 17 May 2017 09:36:35 +0800</pubDate>
-      
-      <guid>/customers/fn/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>PHHP</title>
@@ -36,8 +18,7 @@
       
       <guid>/customers/phhp/</guid>
       <description>&amp;ldquo; We have been working with SandFil since the year 2012.
-We engaged SandFil for the Performance Management System and it was up and running successfully within a short amount of time. We have had experience in working with other providers, but SandFil&amp;rsquo;s passion in HRM solutions and sincerity in providing their services to their client is exemplary.
-The application is worth its value, user friendly, and the support we received from their technical team is great as well.</description>
+We engaged SandFil for the Performance Management System and it was up and running successfully within a short amount of time. We have had experience in working with other providers, but SandFil&amp;rsquo;s passion in HRM solutions and sincerity in providing their services to their client is exemplary.</description>
     </item>
     
     <item>
@@ -85,42 +66,6 @@ Jimmy Wong, Senior Manager of Information Technology Services
       <guid>/customers/gspp/</guid>
       <description>&amp;ldquo; This is to confirm that we have been happy with SandFil implementation since the implementation was done in year 2007.
 My team and I have been in contact with the research and development team in order to complete new installations for our career job portal and some ongoing upgrades. Throughout the project, the SandFil team was willing to go the extra mile to meet our needs and diligent in carrying out the work and solving issues.</description>
-    </item>
-    
-    <item>
-      <title>CCM</title>
-      <link>/customers/ccm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/customers/ccm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IJM</title>
-      <link>/customers/ijm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/customers/ijm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kenanga</title>
-      <link>/customers/kenanga/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/customers/kenanga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Malaysia Airports</title>
-      <link>/customers/msia-airport/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/customers/msia-airport/</guid>
-      <description></description>
     </item>
     
   </channel>
