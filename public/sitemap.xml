@@ -22,6 +22,16 @@
   </url>
   
   <url>
+    <loc>/jobs/analyst-programmer/</loc>
+    <lastmod>2017-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/jobs/technical-consultant/</loc>
+    <lastmod>2017-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/services/hr-consultancy/</loc>
     <lastmod>2017-05-22T11:29:29+08:00</lastmod>
   </url>
@@ -139,6 +149,12 @@
   
   <url>
     <loc>/customers/ijm/</loc>
+  </url>
+  
+  <url>
+    <loc>/jobs/</loc>
+    <lastmod>2017-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

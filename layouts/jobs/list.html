@@ -1,0 +1,39 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+<div id="main">
+  <div class="hero title">
+    <h1>We're Hiring!</h1>
+    <p>
+      Work on projects for Public Listed Companies, Multinational Companies in Malaysia, Singapore, Thailand and other countries in the Asia-Pacific region.
+      </p>
+  </div>
+  <div class="row gutters align-center">
+    <div class="col col-7">
+      <p class="text-center">
+        <samp>Feel free to contact us at <strong>contact[at]sandfil[dot]com</strong> for a discussion.</samp>
+        <br>
+        SandFil International is a local leading Talent Management Technology and Consulting firm. In line with our oversea expansion and quest for quality excellence, we are seeking dynamic and career-minded individuals to grow with the company.
+      </p>
+    </div>
+  </div>
+  <div class="push-center">
+
+  </div>
+  <div class="components">
+    <div class="row gutters">
+      {{ range .Data.Pages.ByWeight }}
+      <div class="col col-6 item brand-item">
+        <a href="{{ .Permalink }}">
+            <h4>{{ .Title }}</h4>
+            <p>{{ .Params.description }}</p>
+        </a>
+      </div>
+      {{ end }}
+
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ define "footer"}} {{ partial "footer" .}} {{end}}
