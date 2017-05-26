@@ -329,7 +329,7 @@ text-align: center; }
     transition: all linear 0.4s;}
   .brand-item img {
     max-height: 80px;
-    max-width: 200px;  }
+    max-width: 150px;  }
   .brand-item.other-brands {
     flex-direction: column;}
   .brand-item.other-brands h4, .brand-item.other-brands h4:hover{
@@ -732,7 +732,7 @@ tr.border-none td {
     align-items: center}
     .brand-item img {
       max-height: 80px;
-      max-width: 200px;  }
+      max-width: 150px;  }
   .components .item {
     padding: 40px 24px 40px;  }
   #diagram {
