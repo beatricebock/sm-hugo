@@ -28,6 +28,26 @@ a {
   margin: 0 auto;
 }
 
+
+#diagram {
+  content: url(/img/vertical.png);
+  margin-bottom: 15px;
+  width: 100%;
+  box-sizing: content-box;
+}
+@media screen and (min-width: 768px) and (max-width: 1021px){
+  #diagram {
+    content: url(/img/horizontal.png);
+    width: 90%;
+    overflow: hidden;
+  }
+}
+@media screen and (min-width: 1022px){
+  #diagram {
+    width: auto;
+  }
+}
+
 .desc {
   color: rgba(0, 0, 0, 0.7);
 }
@@ -600,7 +620,7 @@ tr.border-none td {
   padding: 0 28px;
   padding-top: 24px;
   font-size: 13px;
-  color: rgba(0, 0, 0, 0.5); }
+  color: rgba(0, 0, 0, 0.5);}
   #footer p {
     order: 1; }
   #footer nav {
@@ -686,7 +706,8 @@ tr.border-none td {
 
   #footer {
     display: block;
-    text-align: center; }
+    text-align: center;
+    overflow: hidden;}
     #footer nav ul {
       display: block;
       margin-bottom: 40px; }
@@ -696,6 +717,10 @@ tr.border-none td {
 
 
 @media (min-width: 768px){
+  .hero p{
+    width: 90%;
+    font-size: 18px;
+  }
   .pains {
     text-align: left;  }
   #action-buttons .button,
@@ -710,6 +735,14 @@ tr.border-none td {
       max-width: 200px;  }
   .components .item {
     padding: 40px 24px 40px;  }
+  #diagram {
+    margin: auto;
+    content: url(/img/horizontal.png);
+  }
+  #footer {
+    overflow: scroll;
+    white-space: nowrap;
+  }
 }
 
 /** Overrides Kube's .highlight properties **/
