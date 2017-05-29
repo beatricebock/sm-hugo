@@ -716,7 +716,7 @@ tr.border-none td {
   }
 
 
-@media (min-width: 768px){
+@media (min-width: 768px) and (max-width: 1244px){
   .hero p{
     width: 90%;
     font-size: 18px;
@@ -744,6 +744,11 @@ tr.border-none td {
     white-space: nowrap;
   }
 }
+
+@media (min-width: 1245px){
+
+}
+
 
 /** Overrides Kube's .highlight properties **/
 .highlight {
