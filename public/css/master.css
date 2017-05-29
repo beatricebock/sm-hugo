@@ -716,7 +716,7 @@ tr.border-none td {
   }
 
 
-@media (min-width: 768px) and (max-width: 1244px){
+@media (min-width: 768px){
   .hero p{
     width: 90%;
     font-size: 18px;
@@ -739,14 +739,13 @@ tr.border-none td {
     margin: auto;
     content: url(/img/horizontal.png);
   }
+}
+
+@media (min-width: 768px) and (min-width: 1245px){
   #footer {
     overflow: scroll;
     white-space: nowrap;
   }
-}
-
-@media (min-width: 1245px){
-
 }
 
 
