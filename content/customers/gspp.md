@@ -3,6 +3,7 @@ date = "2008-04-16"
 description = "The SandMerit team was willing to go the extra mile to meet our needs"
 img = "img/gspp.jpg"
 title = "GS Paper & Packaging"
+draft = true
 +++
 # "
 
