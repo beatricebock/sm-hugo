@@ -1,6 +1,6 @@
 +++
 date = "2016-02-22"
-description = "We have had experience in working with other providers, but SandFil's passion in HRM solutions and sincerity in providing their services to their client is exemplary."
+description = "We have had experience in working with other providers, but SandMerit's passion in HRM solutions and sincerity in providing their services to their client is exemplary."
 img = "img/phhp.jpg"
 title = "PHHP"
 

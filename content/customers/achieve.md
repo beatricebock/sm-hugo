@@ -1,6 +1,6 @@
 +++
 date = "2008-09-27"
-description = "The work you did for JCG Search International and the results SandFil provided went far beyond our expectations."
+description = "The work you did for JCG Search International and the results SandMerit provided went far beyond our expectations."
 img = "img/achieve.png"
 title = "Achieve Group"
 
