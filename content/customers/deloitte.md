@@ -1,9 +1,8 @@
 +++
+title = "Deloitte"
 date = "2012-04-02"
 description = "The team demonstrated an understanding of our needs and worked collaboratively with us to establish an end product that met our requirements."
 img = "img/deloitte.png"
-title = "Deloitte"
-category = "testimonial"
 +++
 
 # "

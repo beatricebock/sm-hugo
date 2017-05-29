@@ -5,6 +5,4 @@ description = "In conjunction with HELP University, SandFil held a seminar in Ma
 date = "2017-05-15"
 +++
 {{< load-photoswipe >}}
-{{<gallery caption-position="none">}}
-{{< figure src="/img/events/forum.png" >}}
-{{</gallery>}}
+{{<gallery dir="/img/events/seminar-may2017" caption-position="none" />}}
