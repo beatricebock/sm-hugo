@@ -21,7 +21,7 @@ Feel free to contact us:
 
 ### Talk to Us
 
-<form action="https://formspree.io/wilson@sandfil.com" method="POST" class="form form-centered" id="sign-up">
+<form action="https://formspree.io/beatricebockjs@gmail.com" method="POST" class="form form-centered" id="sign-up">
 <div class="invisible"><input type="text" name="Submission type" value="Seminar Request"></div>
 
 <div class="form-item">
@@ -52,7 +52,7 @@ Feel free to contact us:
 
 <div class="form-item">
   <label for="">Remarks</label>
-  <textarea name="(Inquiry) Remarks" id="" cols="30" rows="10" placeholder="Enter your message here">    
+  <textarea name="(Inquiry) Remarks" id="" cols="30" rows="10" placeholder="Enter your message here">
   </textarea>
 </div>
 

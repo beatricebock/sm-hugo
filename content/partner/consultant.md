@@ -5,7 +5,7 @@ description= "We welcome HR Consultants and HR Practitioners who believe in what
 
 <fieldset>
   <legend>Enter your contact details below</legend>
-  <form action="https://formspree.io/wilson@sandfil.com" method="post">
+  <form action="https://formspree.io/beatricebockjs@gmail.com" method="post">
     <div class="invisible"><input type="text" name="Submission type" value="HR Consultant"></div> <!-- Hidden inout for form data  -->
   <div class="form-item">
     <label>Salutation</label>

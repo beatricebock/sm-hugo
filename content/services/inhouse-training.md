@@ -10,7 +10,7 @@ We have designed the in-house training programme specifically to help you learn 
 
 <fieldset>
   <legend>For more inquiries, submit the form below:</legend>
-  <form action="https://formspree.io/wilson@sandfil.com" method="post">
+  <form action="https://formspree.io/beatricebockjs@gmail.com" method="post">
     <div class="invisible"><input type="text" name="Submission type" value="Services Inquiry:In House Training"></div> <!-- Hidden inout for form data  -->
   <div class="form-item">
     <label>Salutation</label>

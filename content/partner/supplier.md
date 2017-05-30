@@ -5,7 +5,7 @@ description= " Our clients are rewarding their employees with attractive gifts a
 
 <fieldset>
   <legend>Enter your contact details below</legend>
-  <form action="https://formspree.io/wilson@sandfil.com" method="post">
+  <form action="https://formspree.io/beatricebockjs@gmail.com" method="post">
     <div class="invisible"><input type="text" name="Submission type" value="Supplier"></div> <!-- Hidden inout for form data  -->
   <div class="form-item">
     <label>Salutation</label>
