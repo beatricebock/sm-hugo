@@ -1,5 +1,5 @@
 +++
-title = "Internship: Analyst Programmer"
+title = "Analyst Programmer"
 description = "Work with C#.Net and ASP.Net!"
 date = "2017-05-25"
 +++
