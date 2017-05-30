@@ -43,7 +43,7 @@ description = "Want to know more about SandMerit and what we can do for you? Get
 <h5>Don't miss this opportunity!</h5>
 <p>Learn from the absolute best in HR and let us help you find the best strategy for your company.</p>
 <p>Simply enter your details below and we'll contact you for more details.</p>
-<form action="https://formspree.io/beatricebockjs@gmail.com" method="POST" class="form form-centered" id="sign-up">
+<form action="https://formspree.io/wilson@sandfil.com" method="POST" class="form form-centered" id="sign-up">
 <div class="invisible"><input type="text" name="Submission type" value="Seminar Request"></div>
 
 <div class="form-item">

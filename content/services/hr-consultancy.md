@@ -7,7 +7,7 @@ We have a group of experienced HR consultants who can assist your organization t
 
 <fieldset>
   <legend>For more inquiries, submit the form below:</legend>
-  <form action="https://formspree.io/beatricebockjs@gmail.com" method="post">
+  <form action="https://formspree.io/wilson@sandfil.com" method="post">
     <div class="invisible"><input type="text" name="Submission type" value="Services Inquiry: HR Consultancy"></div> <!-- Hidden inout for form data  -->
   <div class="form-item">
     <label>Salutation</label>
