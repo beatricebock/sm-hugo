@@ -39,6 +39,7 @@ We have a group of experienced HR consultants who can assist your organization t
     <label>Remarks</label>
     <textarea name="(SERVICES-HR)" rows="8" cols="80"></textarea>
   </div>
+  <input type="hidden" name="_next" value="/thankyou/services" />
   <input type="submit" value="Talk to Us" class="button primary width-100">
   </form>
 </fieldset>

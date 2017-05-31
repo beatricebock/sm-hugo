@@ -37,6 +37,7 @@ description= "We welcome HR Consultants and HR Practitioners who believe in what
     <label>Company Website</label>
     <input type="url" name="(PARTNER-HR) Website" placeholder="Eg: http://example.com" />
   </div>
+    <input type="hidden" name="_next" value="/thankyou/partner" />
   <input type="submit" value="Talk to Us" class="button primary width-100">
   </form>
 </fieldset>

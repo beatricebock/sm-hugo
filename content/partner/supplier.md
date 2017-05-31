@@ -37,6 +37,7 @@ description= " Our clients are rewarding their employees with attractive gifts a
     <label>Company Website</label>
     <input type="url" name="(PARTNER-Supplier) Website" placeholder="Eg: http://example.com" />
   </div>
+  <input type="hidden" name="_next" value="/thankyou/partner" />
   <input type="submit" value="Talk to Us" class="button primary width-100">
   </form>
 </fieldset>

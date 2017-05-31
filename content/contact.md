@@ -55,6 +55,6 @@ Feel free to contact us:
   <textarea name="(Inquiry) Remarks" id="" cols="30" rows="10" placeholder="Enter your message here">
   </textarea>
 </div>
-
+<input type="hidden" name="_next" value="/thankyou/contact" />
 <input type="submit" value="Get Invited" class="button primary width-100">
 </form>

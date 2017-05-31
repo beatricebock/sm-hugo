@@ -44,6 +44,7 @@ The workshop is conducted in an very interactive way, allowing for hands-on trai
     <label>Remarks</label>
     <textarea name="(SERVICES-PUB)" rows="8" cols="80"></textarea>
   </div>
+  <input type="hidden" name="_next" value="/thankyou/services" />
   <input type="submit" value="Talk to Us" class="button primary width-100">
   </form>
 </fieldset>
